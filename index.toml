@@ -1,6 +1,14 @@
 hash-format = "sha256"
 
 [[files]]
+file = "Sam Apocalypse-1.2.2.zip"
+hash = "d217631a696d7545b4a2d5cea805d317244ffb1facebd4a321ee561ecebca939"
+
+[[files]]
+file = "config/.DS_Store"
+hash = "f9eb269596b98a094749e67895d05c61a73b0ec7b025d1ab55994139f30aa56e"
+
+[[files]]
 file = "config/EnderStorage.cfg"
 hash = "50f8a5bee199a9f544ad1c87441e424ad768195b3fa95eb1d8372de18c7da346"
 
@@ -466,7 +474,7 @@ hash = "7ab482e07c8d3bee4288e883ed6b98db7666933ef54de25d1cb078711c3ce8d0"
 
 [[files]]
 file = "manifest.json"
-hash = "98b601d3e30eebdda6f6e1a1960a7dd6104c7e8585d749123b8adb2eb410aeb0"
+hash = "fac2eb65a45435ddd3a9846be89c651a91b15a870d5f837b098f89da8e2e6fff"
 
 [[files]]
 file = "minecraftinstance.json"
