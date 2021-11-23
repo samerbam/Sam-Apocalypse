@@ -1,0 +1,315 @@
+{
+	id: "552C0617A326D2F6"
+	group: ""
+	order_index: 2
+	filename: "unlockables"
+	title: "Unlockables"
+	disable_toast: true
+	default_quest_shape: ""
+	default_hide_dependency_lines: false
+	quests: [
+		{
+			title: "Create"
+			icon: "create:large_cogwheel"
+			x: -3.0d
+			y: -2.5d
+			description: ["1 Skill Point to unlock Create"]
+			id: "2732C6FFD2E8ECD8"
+			tasks: [{
+				id: "6213B085CC16CA1D"
+				type: "ftbmoney:money"
+				value: 4L
+			}]
+			rewards: [{
+				id: "0C62939A5D7A3E2F"
+				type: "gamestage"
+				title: "Unlock: Create"
+				icon: "create:large_cogwheel"
+				auto: "invisible"
+				stage: "create"
+			}]
+		}
+		{
+			title: "Chisel"
+			icon: {
+				id: "chisel:iron_chisel"
+				Count: 1b
+				tag: {
+					Damage: 0
+				}
+			}
+			x: -4.0d
+			y: -2.5d
+			id: "09F57A09CB34650C"
+			tasks: [{
+				id: "16E56802771BC7C2"
+				type: "ftbmoney:money"
+				value: 1L
+			}]
+			rewards: [{
+				id: "3DCB41A5514F57DC"
+				type: "gamestage"
+				title: "Unlock: Chisel"
+				icon: {
+					id: "chisel:iron_chisel"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+				auto: "invisible"
+				stage: ""
+			}]
+		}
+		{
+			title: "Chisel \\& Bits"
+			icon: {
+				id: "chiselsandbits:chisel_iron"
+				Count: 1b
+				tag: {
+					Damage: 0
+				}
+			}
+			x: -4.0d
+			y: -0.5d
+			dependencies: ["57B0DB23256D310C"]
+			id: "18F2A6C269966EAC"
+			tasks: [{
+				id: "4D4D7D4D6F49D811"
+				type: "ftbmoney:money"
+				value: 1L
+			}]
+			rewards: [{
+				id: "37742BEBCF2E3065"
+				type: "gamestage"
+				title: "Unlock: Chisel \\& Bits"
+				icon: {
+					id: "chiselsandbits:chisel_iron"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+				auto: "invisible"
+				stage: ""
+			}]
+		}
+		{
+			title: "Pam's Food"
+			icon: "pamhc2foodextended:groiledcheesesandwichitem"
+			x: -2.0d
+			y: -2.5d
+			id: "48959F280DCC2C36"
+			tasks: [{
+				id: "696223DABDD0B33F"
+				type: "ftbmoney:money"
+				value: 4L
+			}]
+			rewards: [{
+				id: "66704CD23173B091"
+				type: "gamestage"
+				title: "Unlock: Pam's Food"
+				icon: "pamhc2foodextended:groiledcheesesandwichitem"
+				auto: "invisible"
+				stage: "pamhc2"
+			}]
+		}
+		{
+			title: "Astral Sorcery"
+			icon: "astralsorcery:wand"
+			x: -1.0d
+			y: -2.5d
+			id: "0AB6616D038D0EC2"
+			tasks: [{
+				id: "44BC32CAB14170FA"
+				type: "ftbmoney:money"
+				value: 4L
+			}]
+			rewards: [{
+				id: "7CF1B6B9E19145A6"
+				type: "gamestage"
+				title: "Unlock: Astral Sorcery"
+				icon: "astralsorcery:wand"
+				auto: "invisible"
+				stage: "astralsorcery"
+			}]
+		}
+		{
+			title: "MrCrayfish's Furnature Mod"
+			icon: "cfm:oak_chair"
+			x: -4.0d
+			y: -1.5d
+			dependencies: ["09F57A09CB34650C"]
+			id: "57B0DB23256D310C"
+			tasks: [{
+				id: "5653FAE78C5F64F3"
+				type: "ftbmoney:money"
+				value: 1L
+			}]
+			rewards: [{
+				id: "1E18F527791AB7DE"
+				type: "gamestage"
+				title: "Unlock: MrCrayfish's Furnature Mod"
+				icon: "cfm:oak_chair"
+				auto: "invisible"
+				stage: "cfm"
+			}]
+		}
+		{
+			title: "Immersive Engineering"
+			icon: {
+				id: "immersiveengineering:hammer"
+				Count: 1b
+				tag: {
+					Damage: 0
+				}
+			}
+			x: -3.0d
+			y: -1.5d
+			dependencies: ["2732C6FFD2E8ECD8"]
+			id: "3504F7687BCC670A"
+			tasks: [{
+				id: "3ABCED11DA8B8C42"
+				type: "ftbmoney:money"
+				value: 8L
+			}]
+			rewards: [{
+				id: "054E4656DEAC8632"
+				type: "gamestage"
+				title: "Unlock: Immersive Engineering"
+				icon: {
+					id: "immersiveengineering:hammer"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+				auto: "invisible"
+				stage: "immersiveengineering"
+			}]
+		}
+		{
+			title: "Comforts"
+			icon: "comforts:sleeping_bag_white"
+			x: -1.0d
+			y: -1.5d
+			id: "5E11A02F6027AC6F"
+			tasks: [{
+				id: "3A6406D96D8A1FF5"
+				type: "ftbmoney:money"
+				value: 4L
+			}]
+			rewards: [{
+				id: "6DD96D8C55F87DD9"
+				type: "gamestage"
+				title: "Unlock: Comforts"
+				icon: "comforts:sleeping_bag_white"
+				auto: "invisible"
+				stage: "comforts"
+			}]
+		}
+		{
+			title: "Cooking For Blockheads"
+			icon: "cookingforblockheads:cooking_table"
+			x: -2.0d
+			y: -1.5d
+			dependencies: ["48959F280DCC2C36"]
+			id: "77A7344D17A77881"
+			tasks: [{
+				id: "104393498908EBDA"
+				type: "ftbmoney:money"
+				value: 6L
+			}]
+			rewards: [{
+				id: "287220A0A4AB41D5"
+				type: "gamestage"
+				title: "Unlock: Cooking For Blockheads"
+				icon: "cookingforblockheads:cooking_table"
+				auto: "invisible"
+				stage: "cookingforblockheads"
+			}]
+		}
+		{
+			title: "Ender Storage"
+			icon: "enderstorage:ender_chest"
+			x: -5.0d
+			y: -0.5d
+			dependencies: ["4F30B282FF30620F"]
+			id: "63476B8CD4D82540"
+			tasks: [{
+				id: "65082954D2B643A9"
+				type: "ftbmoney:money"
+				value: 8L
+			}]
+			rewards: [{
+				id: "7597195BBDBF9EF3"
+				type: "gamestage"
+				title: "Unlock: Ender Storage"
+				icon: "enderstorage:ender_chest"
+				auto: "invisible"
+				stage: "enderstorage"
+			}]
+		}
+		{
+			title: "Iron Chest"
+			icon: "ironchest:iron_chest"
+			x: -5.0d
+			y: -1.5d
+			dependencies: ["2E29E910DAD54DC5"]
+			id: "4F30B282FF30620F"
+			tasks: [{
+				id: "32B9B3DF60529EF1"
+				type: "ftbmoney:money"
+				value: 2L
+			}]
+			rewards: [{
+				id: "7AD41E29B619AB9B"
+				type: "gamestage"
+				title: "Unlock: Iron Chest"
+				icon: "ironchest:iron_chest"
+				auto: "invisible"
+				stage: "ironchest"
+			}]
+		}
+		{
+			title: "Storage Drawers"
+			icon: "storagedrawers:oak_full_drawers_1"
+			x: -5.0d
+			y: -2.5d
+			id: "2E29E910DAD54DC5"
+			tasks: [{
+				id: "7A38A0594FB7783C"
+				type: "ftbmoney:money"
+				value: 1L
+			}]
+			rewards: [{
+				id: "62E0253E38B0C05D"
+				type: "gamestage"
+				title: "Unlock: Storage Drawers"
+				icon: "storagedrawers:oak_full_drawers_1"
+				auto: "invisible"
+				stage: "storagedrawers"
+			}]
+		}
+		{
+			title: "Security Craft"
+			icon: "securitycraft:security_camera"
+			x: -1.0d
+			y: -0.5d
+			id: "6975D2D8EA405EA9"
+			tasks: [{
+				id: "79201E0159DF5886"
+				type: "ftbmoney:money"
+				value: 2L
+			}]
+			rewards: [{
+				id: "48520A1CB3786EE1"
+				type: "gamestage"
+				title: "Unlock: Security Craft"
+				icon: "securitycraft:security_camera"
+				auto: "invisible"
+				stage: ""
+			}]
+		}
+	]
+}

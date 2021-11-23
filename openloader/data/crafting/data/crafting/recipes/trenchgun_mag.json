@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "iii",
+        "iii",
+        "g  "
+    ],
+    "key": {
+        "i": {
+            "item": "immersiveengineering:empty_casing"
+        },
+        "g": {
+            "item": "minecraft:gunpowder"
+        }
+    },
+    "result": {
+        "item": "craftingdead:trenchgun_shells",
+        "count": 1
+    }
+}

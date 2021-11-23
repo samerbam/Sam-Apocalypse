@@ -1,0 +1,13 @@
+name = "Starter Kit (Forge)"
+filename = "starterkit_1.16.5-2.5.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3379/763/starterkit_1.16.5-2.5.jar"
+hash-format = "murmur2"
+hash = "2813403852"
+
+[update]
+[update.curseforge]
+file-id = 3379763
+project-id = 390717

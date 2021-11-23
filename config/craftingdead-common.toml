@@ -1,0 +1,6 @@
+
+[common]
+	#Range: 0 ~ 65535
+	masterServerPort = 25578
+	masterServerHost = "localhost"
+

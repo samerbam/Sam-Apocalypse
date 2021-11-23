@@ -1,0 +1,13 @@
+name = "Crafting Dead"
+filename = "crafting-dead-core-1.16.5-1.7.5-alpha.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3453/285/crafting-dead-core-1.16.5-1.7.5-alpha.jar"
+hash-format = "murmur2"
+hash = "54515990"
+
+[update]
+[update.curseforge]
+file-id = 3453285
+project-id = 417550

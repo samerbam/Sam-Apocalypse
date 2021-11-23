@@ -1,0 +1,13 @@
+
+#Settings
+[general]
+	#Time in days it takes for zombies to decay.
+	#Range: > 0
+	zombieDecay = 100
+	#The fraction in which zombies will drop flesh. (Every 1/VALUE)
+	#Range: > 0
+	fleshDropFraction = 0
+	#The percentage based off of the decay value that salt preserves.
+	#Range: > 0
+	saltPercentage = 25
+

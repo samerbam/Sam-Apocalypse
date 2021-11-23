@@ -1,0 +1,13 @@
+name = "Villagers Leashed!"
+filename = "villagersleashed-1.2.1.jar"
+side = "both"
+
+[download]
+url = "https://www.curseforge.com/minecraft/mc-mods/villagers-leashed/download/3317243/file"
+hash-format = "md5"
+hash = "a103b182c5d6aa79956c8c20d33a1b2a"
+
+[update]
+[update.curseforge]
+file-id = 3317243
+project-id = 451201

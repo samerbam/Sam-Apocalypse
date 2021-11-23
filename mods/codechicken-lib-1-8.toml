@@ -1,0 +1,13 @@
+name = "CodeChicken Lib 1.8.+"
+filename = "CodeChickenLib-1.16.5-4.0.4.435-universal.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3528/603/CodeChickenLib-1.16.5-4.0.4.435-universal.jar"
+hash-format = "murmur2"
+hash = "1034488304"
+
+[update]
+[update.curseforge]
+file-id = 3528603
+project-id = 242818

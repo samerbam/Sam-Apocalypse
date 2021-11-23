@@ -1,0 +1,13 @@
+name = "Sam Apocalypse"
+author = "Sam"
+version = "1.2.2"
+pack-format = "packwiz:1.0.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "fe3a2ad04770d6dc68960b818a7bb3974bf82de5a25743772ee4f6e6d4a02182"
+
+[versions]
+forge = "36.2.9"
+minecraft = "1.16.5"

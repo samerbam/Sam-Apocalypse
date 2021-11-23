@@ -1,0 +1,13 @@
+name = "Item Filters (Forge)"
+filename = "item-filters-forge-1605.2.5-build.9.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3376/819/item-filters-forge-1605.2.5-build.9.jar"
+hash-format = "murmur2"
+hash = "4059505426"
+
+[update]
+[update.curseforge]
+file-id = 3376819
+project-id = 309674

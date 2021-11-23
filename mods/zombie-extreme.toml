@@ -1,0 +1,13 @@
+name = "Zombie Extreme"
+filename = "Zombie Extreme 1.16.5 1.8.2.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3375/892/Zombie Extreme 1.16.5 1.8.2.jar"
+hash-format = "murmur2"
+hash = "1821224851"
+
+[update]
+[update.curseforge]
+file-id = 3375892
+project-id = 392809

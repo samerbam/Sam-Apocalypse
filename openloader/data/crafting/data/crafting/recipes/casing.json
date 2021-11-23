@@ -1,0 +1,14 @@
+{
+    "type": "create:pressing",
+    "ingredients": [
+        {
+            "tag": "forge:plates/copper"
+        }
+    ],
+    "results": [
+        {
+            "item": "immersiveengineering:empty_casing",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,13 @@
+name = "Villagers Follow Emeralds"
+filename = "VillagersFollowEmeralds-1.16.5-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3205/612/VillagersFollowEmeralds-1.16.5-1.0.0.jar"
+hash-format = "murmur2"
+hash = "3223903237"
+
+[update]
+[update.curseforge]
+file-id = 3205612
+project-id = 447293

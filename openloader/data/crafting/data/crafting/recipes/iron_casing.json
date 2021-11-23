@@ -1,0 +1,14 @@
+{
+    "type": "create:pressing",
+    "ingredients": [
+        {
+            "tag": "forge:plates/iron"
+        }
+    ],
+    "results": [
+        {
+            "item": "contenttweaker:iron_casing",
+            "count": 1
+        }
+    ]
+}

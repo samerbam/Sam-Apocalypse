@@ -1,0 +1,493 @@
+{
+	id: "3060233B854D0084"
+	group: ""
+	order_index: 1
+	filename: "objectives"
+	title: "Objectives"
+	default_quest_shape: ""
+	default_hide_dependency_lines: false
+	quests: [
+		{
+			x: -1.0d
+			y: -5.0d
+			id: "1AD3D02250FE894A"
+			tasks: [
+				{
+					id: "2D2EE76ABB84FD6E"
+					type: "kill"
+					entity: "craftingdead:weak_zombie"
+					value: 10L
+				}
+				{
+					id: "2C22F56EA8FE7894"
+					type: "kill"
+					entity: "craftingdead:tank_zombie"
+					value: 10L
+				}
+				{
+					id: "58EABC7479B96F8A"
+					type: "kill"
+					entity: "zombie_extreme:infectedperson"
+					value: 10L
+				}
+				{
+					id: "4EF2E75C87803F50"
+					type: "kill"
+					entity: "craftingdead:fast_zombie"
+					value: 10L
+				}
+				{
+					id: "2DCC88E9937D8DE0"
+					type: "kill"
+					entity: "craftingdead:doctor_zombie"
+					value: 10L
+				}
+				{
+					id: "314D3AE9A4785166"
+					type: "kill"
+					entity: "zombie_extreme:rat_king"
+					value: 10L
+				}
+			]
+			rewards: [{
+				id: "65617BE936EF2E04"
+				type: "ftbmoney:money"
+				ftb_money: 1L
+			}]
+		}
+		{
+			title: "Pickaxe Addict"
+			x: 1.0d
+			y: -7.0d
+			id: "557B8A3E51EA851F"
+			tasks: [
+				{
+					id: "6D50461D6024E3CC"
+					type: "item"
+					item: {
+						id: "minecraft:wooden_pickaxe"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+					consume_items: true
+				}
+				{
+					id: "1A9624E2C0DFDC15"
+					type: "item"
+					item: {
+						id: "minecraft:stone_pickaxe"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+					consume_items: true
+				}
+				{
+					id: "31EBE66A2C5F0D12"
+					type: "item"
+					item: {
+						id: "minecraft:golden_pickaxe"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+					consume_items: true
+				}
+				{
+					id: "26906FB0A521EEFD"
+					type: "item"
+					item: {
+						id: "minecraft:iron_pickaxe"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+					consume_items: true
+				}
+				{
+					id: "73DED3A7153081A9"
+					type: "item"
+					item: {
+						id: "minecraft:diamond_pickaxe"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+					consume_items: true
+				}
+			]
+			rewards: [{
+				id: "1067A000F6114522"
+				type: "ftbmoney:money"
+				ftb_money: 1L
+			}]
+		}
+		{
+			x: 2.0d
+			y: -7.0d
+			id: "77484AD800D79FC1"
+			tasks: [
+				{
+					id: "525731769F0DE8AD"
+					type: "item"
+					item: {
+						id: "minecraft:wooden_sword"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+					consume_items: true
+				}
+				{
+					id: "37F9D3DF24C9EA2C"
+					type: "item"
+					item: {
+						id: "minecraft:stone_sword"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+					consume_items: true
+				}
+				{
+					id: "0A3E040CB9A2E094"
+					type: "item"
+					item: {
+						id: "minecraft:golden_sword"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+					consume_items: true
+				}
+				{
+					id: "0A1B6C0C0708382B"
+					type: "item"
+					item: {
+						id: "minecraft:iron_sword"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+					consume_items: true
+				}
+				{
+					id: "57799F6EF93543C0"
+					type: "item"
+					item: {
+						id: "minecraft:diamond_sword"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+					consume_items: true
+				}
+			]
+			rewards: [{
+				id: "5BC974C74BDDEA36"
+				type: "ftbmoney:money"
+				ftb_money: 1L
+			}]
+		}
+		{
+			x: 3.0d
+			y: -7.0d
+			id: "53E9EAF23063E73D"
+			tasks: [
+				{
+					id: "3544099329239194"
+					type: "item"
+					item: {
+						id: "minecraft:wooden_axe"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+					consume_items: true
+				}
+				{
+					id: "3372A0FCA3141752"
+					type: "item"
+					item: {
+						id: "minecraft:stone_axe"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+					consume_items: true
+				}
+				{
+					id: "3D232E47CADEC270"
+					type: "item"
+					item: {
+						id: "minecraft:golden_axe"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+					consume_items: true
+				}
+				{
+					id: "190FBCF3EA44443C"
+					type: "item"
+					item: {
+						id: "minecraft:iron_axe"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+					consume_items: true
+				}
+				{
+					id: "29D748F00FDFAC35"
+					type: "item"
+					item: {
+						id: "minecraft:diamond_axe"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+					consume_items: true
+				}
+			]
+			rewards: [{
+				id: "6C1D8016FFA2FBCD"
+				type: "ftbmoney:money"
+				ftb_money: 1L
+			}]
+		}
+		{
+			x: 4.0d
+			y: -7.0d
+			id: "2ABFA3F19A6ACC13"
+			tasks: [
+				{
+					id: "0B6115C2906AA5DB"
+					type: "item"
+					item: {
+						id: "minecraft:wooden_shovel"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+					consume_items: true
+				}
+				{
+					id: "016B19B262BAD85B"
+					type: "item"
+					item: {
+						id: "minecraft:stone_shovel"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+					consume_items: true
+				}
+				{
+					id: "0099184B26C7D70D"
+					type: "item"
+					item: {
+						id: "minecraft:golden_shovel"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+					consume_items: true
+				}
+				{
+					id: "6D409B3DCD5B3BD7"
+					type: "item"
+					item: {
+						id: "minecraft:iron_shovel"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+					consume_items: true
+				}
+				{
+					id: "30DB4D2C43711E6E"
+					type: "item"
+					item: {
+						id: "minecraft:diamond_shovel"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+					consume_items: true
+				}
+			]
+			rewards: [{
+				id: "2B89B60B180C1014"
+				type: "ftbmoney:money"
+				ftb_money: 1L
+			}]
+		}
+		{
+			x: 5.0d
+			y: -7.0d
+			id: "277104939D4117EF"
+			tasks: [
+				{
+					id: "01D844485C34DEB2"
+					type: "item"
+					item: {
+						id: "minecraft:wooden_hoe"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+					consume_items: true
+				}
+				{
+					id: "15306277E9A9C4DA"
+					type: "item"
+					item: {
+						id: "minecraft:stone_hoe"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+					consume_items: true
+				}
+				{
+					id: "5EE14BE0B99F6DEC"
+					type: "item"
+					item: {
+						id: "minecraft:golden_hoe"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+					consume_items: true
+				}
+				{
+					id: "7A4A5F2942C8A637"
+					type: "item"
+					item: {
+						id: "minecraft:iron_hoe"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+					consume_items: true
+				}
+				{
+					id: "5C38086AF8EF37E2"
+					type: "item"
+					item: {
+						id: "minecraft:diamond_hoe"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+					consume_items: true
+				}
+			]
+			rewards: [{
+				id: "43A71EC1CC8009E8"
+				type: "ftbmoney:money"
+				ftb_money: 1L
+			}]
+		}
+		{
+			x: 2.0d
+			y: -8.5d
+			id: "2CDA2B281C77F5FC"
+			tasks: [{
+				id: "167D449838F00813"
+				type: "advancement"
+				advancement: "minecraft:story/cure_zombie_villager"
+				criterion: ""
+			}]
+			rewards: [{
+				id: "663ABF2F8741F924"
+				type: "ftbmoney:money"
+				ftb_money: 1L
+			}]
+		}
+		{
+			x: 3.0d
+			y: -8.5d
+			id: "1D9395F321EBDC55"
+			tasks: [{
+				id: "0321B288CA684BD8"
+				type: "advancement"
+				advancement: "minecraft:adventure/hero_of_the_village"
+				criterion: ""
+			}]
+			rewards: [{
+				id: "251AF683A7AE912C"
+				type: "ftbmoney:money"
+				ftb_money: 1L
+			}]
+		}
+		{
+			x: 1.0d
+			y: -5.5d
+			id: "55909C13E82EA5EF"
+			tasks: [{
+				id: "2A8F6EE05F54834A"
+				type: "xp"
+				value: 100L
+				points: false
+			}]
+			rewards: [{
+				id: "26C7C151848CBAD7"
+				type: "ftbmoney:money"
+				ftb_money: 1L
+			}]
+		}
+		{
+			title: "World Traveler"
+			x: 2.0d
+			y: -5.5d
+			id: "1982262946EC84B1"
+			tasks: [
+				{
+					id: "2D55434169AE77A1"
+					type: "dimension"
+					icon: "minecraft:netherrack"
+					dimension: "minecraft:the_nether"
+				}
+				{
+					id: "6FD365784B947A5F"
+					type: "dimension"
+					icon: "minecraft:end_stone"
+					dimension: "minecraft:the_end"
+				}
+			]
+			rewards: [{
+				id: "41E16C09CDFAD962"
+				type: "ftbmoney:money"
+				ftb_money: 1L
+			}]
+		}
+	]
+}

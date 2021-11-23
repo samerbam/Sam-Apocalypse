@@ -1,0 +1,13 @@
+name = "Vending Machine"
+filename = "VendingMachine-1.16.2-1.0.0.6.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3514/853/VendingMachine-1.16.2-1.0.0.6.jar"
+hash-format = "murmur2"
+hash = "3405382429"
+
+[update]
+[update.curseforge]
+file-id = 3514853
+project-id = 392236

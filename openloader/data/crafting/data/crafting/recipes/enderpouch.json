@@ -1,0 +1,27 @@
+{
+  "type": "create:mechanical_crafting",
+  "pattern": [
+    "ABA",
+    "BDB",
+    "ACA"
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:blaze_powder"
+    },
+    "B": {
+      "tag": "forge:leather"
+    },
+    "C": {
+      "item": "create:chromatic_compound"
+    },
+    "D": {
+      "tag": "forge:ender_pearls"
+    }
+  },
+  "result": {
+    "item": "enderstorage:ender_pouch",
+    "count": 1
+  },
+  "acceptMirrored": false
+}

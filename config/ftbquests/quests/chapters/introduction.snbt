@@ -1,0 +1,23 @@
+{
+	id: "212481183074235F"
+	group: ""
+	order_index: 0
+	filename: "introduction"
+	title: "Introduction"
+	default_quest_shape: ""
+	default_hide_dependency_lines: false
+	quests: [{
+		x: -6.0d
+		y: -2.0d
+		description: [
+			"Welcome to the world! This book will help guide you through the basics!"
+			""
+			"To start, Click the checkmark above."
+		]
+		id: "21AA5ECE7C80FCC9"
+		tasks: [{
+			id: "6509C9F88673D73F"
+			type: "checkmark"
+		}]
+	}]
+}

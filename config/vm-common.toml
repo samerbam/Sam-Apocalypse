@@ -1,0 +1,55 @@
+#Restock
+Restock = true
+#Use fixed items
+UseFixedItems = false
+#Minable
+Minable = false
+#Fixed items; item or item,amount,pay_item,cost,uses
+FixedItems = "minecraft:air;minecraft:air;minecraft:air;minecraft:air;minecraft:air;minecraft:air;minecraft:air"
+#Include Mods
+IncludeMods = "*"
+#Exclude Mods
+ExcludeMods = "draconicevolution;avaritia;botania"
+#Exclude Items
+ExcludeItems = "minecraft:nether_star;minecraft:beacon;minecraft:bedrock;minecraft:shulker_box;minecraft:colorset*shulker_box;minecraft:elytra;minecraft:end_portal_frame;minecraft:armorset*netherite;minecraft:toolset*netherite;minecraft:netherite_block;minecraft:netherite_ingot;vm:vending_machine"
+#Include Creative Tab Groups
+IncludeGroups = "*"
+#Exclude Creative Tab Groups
+ExcludeGroups = "!"
+#Change item rarity value for pricing
+ItemRarity = "minecraft:emerald_block=1;minecraft:diamond_block=1;minecraft:armorset*diamond=1;minecraft:toolset*diamond=1;minecraft:anvil=2;minecraft:trident=3;minecraft:bell=2;minecraft:conduit=3;minecraft:nautilus_shell=1;eggset*peaceful=1;eggset*monster=2;minecraft:evoker_spawn_egg=3;minecraft:netherite_scrap=2;minecraft:ancient_debris=2"
+
+[RarityData]
+	#Uncommon Item
+	UncommonItem = "minecraft:emerald"
+	#Rare Item
+	RareItem = "minecraft:emerald"
+	#Uncommon Cost
+	#Range: 0 ~ 64
+	UncommonCost = 16
+	#Rare Uses
+	#Range: 0 ~ 32
+	RareUses = 2
+	#Epic Uses
+	#Range: 0 ~ 32
+	EpicUses = 1
+	#Epic Item
+	EpicItem = "minecraft:emerald"
+	#Common Item
+	CommonItem = "minecraft:emerald"
+	#Epic Cost
+	#Range: 0 ~ 64
+	EpicCost = 64
+	#Rare Cost
+	#Range: 0 ~ 64
+	RareCost = 32
+	#Common Uses
+	#Range: 0 ~ 32
+	CommonUses = 8
+	#Uncommon Uses
+	#Range: 0 ~ 32
+	UncommonUses = 4
+	#Common Cost
+	#Range: 0 ~ 64
+	CommonCost = 1
+

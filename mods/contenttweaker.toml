@@ -1,0 +1,13 @@
+name = "ContentTweaker"
+filename = "ContentTweaker-1.16-1.0.0.develop.26.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3471/6/ContentTweaker-1.16-1.0.0.develop.26.jar"
+hash-format = "murmur2"
+hash = "2929446710"
+
+[update]
+[update.curseforge]
+file-id = 3471006
+project-id = 237065

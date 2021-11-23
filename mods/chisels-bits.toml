@@ -1,0 +1,13 @@
+name = "Chisels & Bits"
+filename = "chiselsandbits-1.0.43.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3510/598/chiselsandbits-1.0.43.jar"
+hash-format = "murmur2"
+hash = "1779439035"
+
+[update]
+[update.curseforge]
+file-id = 3510598
+project-id = 231095

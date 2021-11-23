@@ -1,0 +1,14 @@
+{
+    "type": "create:pressing",
+    "ingredients": [
+        {
+            "tag": "forge:plates/gold"
+        }
+    ],
+    "results": [
+        {
+            "item": "contenttweaker:gold_casing",
+            "count": 1
+        }
+    ]
+}

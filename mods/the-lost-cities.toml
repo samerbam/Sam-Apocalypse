@@ -1,0 +1,13 @@
+name = "The Lost Cities"
+filename = "lostcities-1.16-4.0.10-beta.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3446/778/lostcities-1.16-4.0.10-beta.jar"
+hash-format = "murmur2"
+hash = "1706140519"
+
+[update]
+[update.curseforge]
+file-id = 3446778
+project-id = 269024

@@ -1,0 +1,14 @@
+{
+    "type": "create:pressing",
+    "ingredients": [
+        {
+            "tag": "forge:plates/brass"
+        }
+    ],
+    "results": [
+        {
+            "item": "contenttweaker:brass_casing",
+            "count": 1
+        }
+    ]
+}

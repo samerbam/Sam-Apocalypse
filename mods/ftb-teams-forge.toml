@@ -1,0 +1,13 @@
+name = "FTB Teams (Forge)"
+filename = "ftb-teams-forge-1605.2.3-build.38.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3492/657/ftb-teams-forge-1605.2.3-build.38.jar"
+hash-format = "murmur2"
+hash = "353962899"
+
+[update]
+[update.curseforge]
+file-id = 3492657
+project-id = 404468

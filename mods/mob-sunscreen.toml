@@ -1,0 +1,13 @@
+name = "Mob Sunscreen"
+filename = "mobsunscreen-1.16.5-3.0.4.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3315/51/mobsunscreen-1.16.5-3.0.4.jar"
+hash-format = "murmur2"
+hash = "702721773"
+
+[update]
+[update.curseforge]
+file-id = 3315051
+project-id = 298408

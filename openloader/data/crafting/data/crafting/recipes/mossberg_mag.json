@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "iii",
+        "iii",
+        "iig"
+    ],
+    "key": {
+        "i": {
+            "item": "immersiveengineering:empty_casing"
+        },
+        "g": {
+            "item": "minecraft:gunpowder"
+        }
+    },
+    "result": {
+        "item": "craftingdead:mossberg_shells",
+        "count": 1
+    }
+}

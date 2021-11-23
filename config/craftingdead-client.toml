@@ -1,0 +1,11 @@
+
+[client]
+	playKillSound = true
+	#Internal
+	#Allowed Values: OPEN_EQUIPMENT_MENU, NONE
+	tutorialStep = "NONE"
+	crosshair = "craftingdead:standard"
+	displayBlood = true
+	#Allowed Values: OFF, KILL, HIT_AND_KILL
+	hitMarkerMode = "HIT_AND_KILL"
+

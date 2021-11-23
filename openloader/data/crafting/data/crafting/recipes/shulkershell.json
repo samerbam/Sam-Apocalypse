@@ -1,0 +1,91 @@
+{
+  "type": "create:sequenced_assembly",
+  "ingredient": {
+    "item": "minecraft:ender_eye"
+  },
+  "transitionalItem": {
+    "item": "minecraft:scute"
+  },
+  "sequence": [
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "minecraft:scute"
+        },
+        {
+          "item": "minecraft:purple_dye"
+        }
+      ],
+      "results": [
+        {
+          "item": "minecraft:scute"
+        }
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "minecraft:scute"
+        },
+        {
+          "item": "minecraft:scute"
+        }
+      ],
+      "results": [
+        {
+          "item": "minecraft:scute"
+        }
+      ]
+    },
+    {
+      "type": "create:filling",
+      "ingredients": [
+        {
+            "item": "minecraft:scute"
+        },
+        {
+          "fluid": "minecraft:lava",
+          "amount": 25
+        }
+      ],
+      "results" [
+          {
+            "item": "minecraft:scute"
+          }
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "minecraft:scute"
+        },
+        {
+          "item": "minecraft:pink_dye"
+        }
+      ],
+      "results": [
+        {
+          "item": "minecraft:scute"
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "item": "minecraft:shulker_shell",
+      "chance": 85.0
+    },
+    {
+      "item": "minecraft:nautilus_shell",
+      "chance": 10.0
+    },
+    {
+      "item": "minecraft:scute",
+      "chance": 5.0
+    }
+  ],
+  "loops": 4
+}

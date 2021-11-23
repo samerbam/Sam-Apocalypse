@@ -1,0 +1,13 @@
+name = "Bad Mobs"
+filename = "BadMobs-1.16.5-9.0.4.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3348/561/BadMobs-1.16.5-9.0.4.jar"
+hash-format = "murmur2"
+hash = "2303694"
+
+[update]
+[update.curseforge]
+file-id = 3348561
+project-id = 233258

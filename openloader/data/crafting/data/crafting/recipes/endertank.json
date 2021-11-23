@@ -1,0 +1,30 @@
+{
+  "type": "create:mechanical_crafting",
+  "pattern": [
+    "ACA",
+    "BDB",
+    "AEA"
+  ],
+  "key": {
+    "A": {
+      "tag": "forge:rods/blaze"
+    },
+    "B": {
+      "tag": "forge:obsidian"
+    },
+    "C": {
+      "item": "create:chromatic_compound"
+    },
+    "D": {
+      "item": "minecraft:cauldron"
+    },
+    "E": {
+      "tag": "forge:ender_pearls"
+    }
+  },
+  "result": {
+    "item": "enderstorage:ender_tank",
+    "count": 1
+  },
+  "acceptMirrored": false
+}
