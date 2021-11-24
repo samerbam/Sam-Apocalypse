@@ -895,8 +895,12 @@ metafile = true
 
 [[files]]
 file = "mods/villagers-leashed.toml"
-hash = "420953f14330275e271795046cd6180ccfb5b7930eb02e48fc6508fcb38b4a9c"
+hash = "5426b1e49a5e1fbd82d03099c8d2a10eb3db26bcff625a4c123607548499c05a"
 metafile = true
+
+[[files]]
+file = "mods/villagers-leashed.toml.backup"
+hash = "690bb9cb806611d2a66edade7eb564e51500f3323e4c1220dd1bfd62f0ef0cb2"
 
 [[files]]
 file = "mods/xaeros-minimap.toml"
