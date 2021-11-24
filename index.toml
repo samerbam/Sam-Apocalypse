@@ -842,7 +842,7 @@ metafile = true
 
 [[files]]
 file = "mods/security-craft.toml"
-hash = "d0b00d9b94afeb6cf136f8f21322a40722c474d62e7be642407c19dc19c6cd4d"
+hash = "a06b2c32ea63678c8b8976ba440c30cf42ccd897a1d93bc0f5552dc03e31f2d1"
 metafile = true
 
 [[files]]
@@ -907,7 +907,7 @@ metafile = true
 
 [[files]]
 file = "mods/villagers-leashed.toml"
-hash = "f3b20ece214d9e4d6841325dfee058e71199eaefd5d2ea4fa3309ebbf8bd5534"
+hash = "9ea9540cdc137e6f2b38f118bccc4c64da3ed31f27e6eb9ac22e2d886a21c781"
 metafile = true
 
 [[files]]
