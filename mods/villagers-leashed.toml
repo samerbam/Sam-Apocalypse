@@ -3,11 +3,11 @@ filename = "villagersleashed-1.0.0.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3364/954/villagersleashed-1.0.0.jar"
+url = "https://edge.forgecdn.net/files/3317/243/villagersleashed-1.16.5-1.2.0.jar"
 hash-format = "murmur2"
 hash = "1327377428"
 
 [update]
 [update.curseforge]
-file-id = 3364954
+file-id = 3317243
 project-id = 451201

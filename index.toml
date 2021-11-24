@@ -1,16 +1,8 @@
 hash-format = "sha256"
 
 [[files]]
-file = ".DS_Store"
-hash = "2f4f7b61b3aac91c93b24595fa59cfb27d0c6b9da907cdb3ec0759a313dc42de"
-
-[[files]]
 file = "Sam Apocalypse-1.2.2.zip"
 hash = "d217631a696d7545b4a2d5cea805d317244ffb1facebd4a321ee561ecebca939"
-
-[[files]]
-file = "config/.DS_Store"
-hash = "f9eb269596b98a094749e67895d05c61a73b0ec7b025d1ab55994139f30aa56e"
 
 [[files]]
 file = "config/EnderStorage.cfg"
@@ -155,10 +147,6 @@ hash = "4cc253900bdbba46f5146e8532320e84ad90853c75633e07bfef5fa5f312436c"
 [[files]]
 file = "config/curios-client.toml"
 hash = "d2a0985f12c9facad3b2a8716070ed90b384028992e3f95d2abb444127176b1a"
-
-[[files]]
-file = "config/dsurround/.DS_Store"
-hash = "cf9df9ffedc9f742bfe70fef16fdc0968c30d76185b269eb5586f8552e8ad337"
 
 [[files]]
 file = "config/dsurround/dsurround-client.toml"
@@ -315,10 +303,6 @@ hash = "13a4d5e1d1ac4207cbebef810696525975ec4f0c2470f6b858cbd9f62a6cd3ec"
 [[files]]
 file = "config/jeresources.toml"
 hash = "dba9b465be70853db2eaa9ab61747b244c2dd1127668dd72121251150a4833a1"
-
-[[files]]
-file = "config/lostcities/.DS_Store"
-hash = "8742896495a390ff42745cbe77703ef590a8c45b9c9ff815aa939373d4545760"
 
 [[files]]
 file = "config/lostcities/client.toml"
@@ -846,7 +830,7 @@ metafile = true
 
 [[files]]
 file = "mods/security-craft.toml"
-hash = "bace9ab4812508a58b8682804134b8115505ef1b32f8367b046d05f72148bc01"
+hash = "ad04d680c738287ee61b436f837a880169e229043924078fee4a12ce1977589a"
 metafile = true
 
 [[files]]
@@ -911,7 +895,7 @@ metafile = true
 
 [[files]]
 file = "mods/villagers-leashed.toml"
-hash = "9ea9540cdc137e6f2b38f118bccc4c64da3ed31f27e6eb9ac22e2d886a21c781"
+hash = "e151224c81b23275c046edd05a377e2751c4809da654f217788d7c59fff4c4da"
 metafile = true
 
 [[files]]
