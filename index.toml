@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "Sam Apocalypse-1.2.2.zip"
-hash = "d217631a696d7545b4a2d5cea805d317244ffb1facebd4a321ee561ecebca939"
-
-[[files]]
 file = "config/EnderStorage.cfg"
 hash = "50f8a5bee199a9f544ad1c87441e424ad768195b3fa95eb1d8372de18c7da346"
 
@@ -1020,18 +1016,6 @@ hash = "160919c4da31f9b5f80a23b809b863b9c7b444f6c1cfd05941569a5ffe96a48c"
 [[files]]
 file = "options.txt"
 hash = "04d1acb8cb96a93275d1adaedd80cf55955ce3d4fa8db0b2a763a07cac527a38"
-
-[[files]]
-file = "packwiz"
-hash = "d176335e5907a4df70c3185a8f6e6caab3f95998e2b5bf203935b0dc5329cf4b"
-
-[[files]]
-file = "packwiz-installer-bootstrap.jar"
-hash = "a8fbb24dc604278e97f4688e82d3d91a318b98efc08d5dbfcbcbcab6443d116c"
-
-[[files]]
-file = "packwiz-installer.jar"
-hash = "dc4b9531bf6bb6151761f247bcefae5da76951db73d9dcf48da3c2ee2f84e259"
 
 [[files]]
 file = "scripts/items.zs"
