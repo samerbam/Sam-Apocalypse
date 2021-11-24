@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://edge.forgecdn.net/files/3354/481/villagersleashed-1.0.jar"
-hash-format = "murmur2"
-hash = "3458084224"
+hash-format = "md5"
+hash = "a103b182c5d6aa79956c8c20d33a1b2a"
 
 [update]
 [update.curseforge]
