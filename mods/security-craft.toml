@@ -3,7 +3,7 @@ filename = "[1.16.5] SecurityCraft v1.8.23.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3398/327/[1.16.5] SecurityCraft v1.8.23.jar"
+url = "https://edge.forgecdn.net/files/3398/327/%5B1.16.5%5D SecurityCraft v1.8.23.jar"
 hash-format = "murmur2"
 hash = "4286357527"
 
