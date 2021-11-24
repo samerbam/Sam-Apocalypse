@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = ".DS_Store"
+hash = "2f4f7b61b3aac91c93b24595fa59cfb27d0c6b9da907cdb3ec0759a313dc42de"
+
+[[files]]
 file = "Sam Apocalypse-1.2.2.zip"
 hash = "d217631a696d7545b4a2d5cea805d317244ffb1facebd4a321ee561ecebca939"
 
@@ -842,7 +846,7 @@ metafile = true
 
 [[files]]
 file = "mods/security-craft.toml"
-hash = "a06b2c32ea63678c8b8976ba440c30cf42ccd897a1d93bc0f5552dc03e31f2d1"
+hash = "bace9ab4812508a58b8682804134b8115505ef1b32f8367b046d05f72148bc01"
 metafile = true
 
 [[files]]
