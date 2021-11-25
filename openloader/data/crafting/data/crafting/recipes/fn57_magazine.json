@@ -2,12 +2,67 @@
     "type": "create:mixing",
     "ingredients": [
         {
-            "item": "immersiveengineering:empty_casing",
-            "count": 19
+            "item": "immersiveengineering:empty_casing"
         },
         {
-            "item": "minecraft:gunpowder",
-            "count": 2
+            "item": "immersiveengineering:empty_casing"
+        },
+        {
+            "item": "immersiveengineering:empty_casing"
+        },
+        {
+            "item": "immersiveengineering:empty_casing"
+        },
+        {
+            "item": "immersiveengineering:empty_casing"
+        },
+        {
+            "item": "immersiveengineering:empty_casing"
+        },
+        {
+            "item": "immersiveengineering:empty_casing"
+        },
+        {
+            "item": "immersiveengineering:empty_casing"
+        },
+        {
+            "item": "immersiveengineering:empty_casing"
+        },
+        {
+            "item": "immersiveengineering:empty_casing"
+        },
+        {
+            "item": "immersiveengineering:empty_casing"
+        },
+        {
+            "item": "immersiveengineering:empty_casing"
+        },
+        {
+            "item": "immersiveengineering:empty_casing"
+        },
+        {
+            "item": "immersiveengineering:empty_casing"
+        },
+        {
+            "item": "immersiveengineering:empty_casing"
+        },
+        {
+            "item": "immersiveengineering:empty_casing"
+        },
+        {
+            "item": "immersiveengineering:empty_casing"
+        },
+        {
+            "item": "immersiveengineering:empty_casing"
+        },
+        {
+            "item": "immersiveengineering:empty_casing"
+        },
+        {
+            "item": "minecraft:gunpowder"
+        },
+        {
+            "item": "minecraft:gunpowder"
         }
     ],
     "results": [

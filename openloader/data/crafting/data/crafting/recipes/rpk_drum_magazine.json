@@ -2,12 +2,133 @@
     "type": "create:mixing",
     "ingredients": [
         {
-            "item": "contenttweaker:iron_casing",
-            "count": 35
+            "item": "contenttweaker:iron_casing"
         },
         {
-            "item": "minecraft:gunpowder",
-            "count": 8
+            "item": "contenttweaker:iron_casing"
+        },
+        {
+            "item": "contenttweaker:iron_casing"
+        },
+        {
+            "item": "contenttweaker:iron_casing"
+        },
+        {
+            "item": "contenttweaker:iron_casing"
+        },
+        {
+            "item": "contenttweaker:iron_casing"
+        },
+        {
+            "item": "contenttweaker:iron_casing"
+        },
+        {
+            "item": "contenttweaker:iron_casing"
+        },
+        {
+            "item": "contenttweaker:iron_casing"
+        },
+        {
+            "item": "contenttweaker:iron_casing"
+        },
+        {
+            "item": "contenttweaker:iron_casing"
+        },
+        {
+            "item": "contenttweaker:iron_casing"
+        },
+        {
+            "item": "contenttweaker:iron_casing"
+        },
+        {
+            "item": "contenttweaker:iron_casing"
+        },
+        {
+            "item": "contenttweaker:iron_casing"
+        },
+        {
+            "item": "contenttweaker:iron_casing"
+        },
+        {
+            "item": "contenttweaker:iron_casing"
+        },
+        {
+            "item": "contenttweaker:iron_casing"
+        },
+        {
+            "item": "contenttweaker:iron_casing"
+        },
+        {
+            "item": "contenttweaker:iron_casing"
+        },
+        {
+            "item": "contenttweaker:iron_casing"
+        },
+        {
+            "item": "contenttweaker:iron_casing"
+        },
+        {
+            "item": "contenttweaker:iron_casing"
+        },
+        {
+            "item": "contenttweaker:iron_casing"
+        },
+        {
+            "item": "contenttweaker:iron_casing"
+        },
+        {
+            "item": "contenttweaker:iron_casing"
+        },
+        {
+            "item": "contenttweaker:iron_casing"
+        },
+        {
+            "item": "contenttweaker:iron_casing"
+        },
+        {
+            "item": "contenttweaker:iron_casing"
+        },
+        {
+            "item": "contenttweaker:iron_casing"
+        },
+        {
+            "item": "contenttweaker:iron_casing"
+        },
+        {
+            "item": "contenttweaker:iron_casing"
+        },
+        {
+            "item": "contenttweaker:iron_casing"
+        },
+        {
+            "item": "contenttweaker:iron_casing"
+        },
+        {
+            "item": "contenttweaker:iron_casing"
+        },
+        {
+            "item": "minecraft:gunpowder"
+        },
+        {
+            "item": "minecraft:gunpowder"
+        },
+        {
+            "item": "minecraft:gunpowder"
+        },
+        {
+            "item": "minecraft:gunpowder"
+        },
+        {
+            "item": "minecraft:gunpowder"
+        },
+        {
+            "item": "minecraft:gunpowder"
+        },
+        {
+            "item": "minecraft:gunpowder"
+        },
+        {
+            "item": "minecraft:gunpowder"
         }
     ],
     "results": [

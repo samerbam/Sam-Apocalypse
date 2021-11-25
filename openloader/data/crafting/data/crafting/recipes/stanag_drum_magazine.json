@@ -2,12 +2,88 @@
     "type": "create:mixing",
     "ingredients": [
         {
-            "item": "contenttweaker:brass_casing",
-            "count": 24
+            "item": "contenttweaker:brass_casing"
         },
         {
-            "item": "minecraft:gunpowder",
-            "count": 4
+            "item": "contenttweaker:brass_casing"
+        },
+        {
+            "item": "contenttweaker:brass_casing"
+        },
+        {
+            "item": "contenttweaker:brass_casing"
+        },
+        {
+            "item": "contenttweaker:brass_casing"
+        },
+        {
+            "item": "contenttweaker:brass_casing"
+        },
+        {
+            "item": "contenttweaker:brass_casing"
+        },
+        {
+            "item": "contenttweaker:brass_casing"
+        },
+        {
+            "item": "contenttweaker:brass_casing"
+        },
+        {
+            "item": "contenttweaker:brass_casing"
+        },
+        {
+            "item": "contenttweaker:brass_casing"
+        },
+        {
+            "item": "contenttweaker:brass_casing"
+        },
+        {
+            "item": "contenttweaker:brass_casing"
+        },
+        {
+            "item": "contenttweaker:brass_casing"
+        },
+        {
+            "item": "contenttweaker:brass_casing"
+        },
+        {
+            "item": "contenttweaker:brass_casing"
+        },
+        {
+            "item": "contenttweaker:brass_casing"
+        },
+        {
+            "item": "contenttweaker:brass_casing"
+        },
+        {
+            "item": "contenttweaker:brass_casing"
+        },
+        {
+            "item": "contenttweaker:brass_casing"
+        },
+        {
+            "item": "contenttweaker:brass_casing"
+        },
+        {
+            "item": "contenttweaker:brass_casing"
+        },
+        {
+            "item": "contenttweaker:brass_casing"
+        },
+        {
+            "item": "contenttweaker:brass_casing"
+        },
+        {
+            "item": "minecraft:gunpowder"
+        },
+        {
+            "item": "minecraft:gunpowder"
+        },
+        {
+            "item": "minecraft:gunpowder"
+        },
+        {
+            "item": "minecraft:gunpowder"
         }
     ],
     "results": [

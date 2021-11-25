@@ -2,12 +2,37 @@
     "type": "create:mixing",
     "ingredients": [
         {
-            "item": "contenttweaker:gold_casing",
-            "count": 10
+            "item": "contenttweaker:gold_casing"
         },
         {
-            "item": "minecraft:gunpowder",
-            "count": 1
+            "item": "contenttweaker:gold_casing"
+        },
+        {
+            "item": "contenttweaker:gold_casing"
+        },
+        {
+            "item": "contenttweaker:gold_casing"
+        },
+        {
+            "item": "contenttweaker:gold_casing"
+        },
+        {
+            "item": "contenttweaker:gold_casing"
+        },
+        {
+            "item": "contenttweaker:gold_casing"
+        },
+        {
+            "item": "contenttweaker:gold_casing"
+        },
+        {
+            "item": "contenttweaker:gold_casing"
+        },
+        {
+            "item": "contenttweaker:gold_casing"
+        },
+        {
+            "item": "minecraft:gunpowder"
         }
     ],
     "results": [

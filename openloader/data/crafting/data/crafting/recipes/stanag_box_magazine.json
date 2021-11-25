@@ -2,12 +2,121 @@
     "type": "create:mixing",
     "ingredients": [
         {
-            "item": "contenttweaker:gold_casing",
-            "count": 32
+            "item": "contenttweaker:gold_casing"
         },
         {
-            "item": "minecraft:gunpowder",
-            "count": 7
+            "item": "contenttweaker:gold_casing"
+        },
+        {
+            "item": "contenttweaker:gold_casing"
+        },
+        {
+            "item": "contenttweaker:gold_casing"
+        },
+        {
+            "item": "contenttweaker:gold_casing"
+        },
+        {
+            "item": "contenttweaker:gold_casing"
+        },
+        {
+            "item": "contenttweaker:gold_casing"
+        },
+        {
+            "item": "contenttweaker:gold_casing"
+        },
+        {
+            "item": "contenttweaker:gold_casing"
+        },
+        {
+            "item": "contenttweaker:gold_casing"
+        },
+        {
+            "item": "contenttweaker:gold_casing"
+        },
+        {
+            "item": "contenttweaker:gold_casing"
+        },
+        {
+            "item": "contenttweaker:gold_casing"
+        },
+        {
+            "item": "contenttweaker:gold_casing"
+        },
+        {
+            "item": "contenttweaker:gold_casing"
+        },
+        {
+            "item": "contenttweaker:gold_casing"
+        },
+        {
+            "item": "contenttweaker:gold_casing"
+        },
+        {
+            "item": "contenttweaker:gold_casing"
+        },
+        {
+            "item": "contenttweaker:gold_casing"
+        },
+        {
+            "item": "contenttweaker:gold_casing"
+        },
+        {
+            "item": "contenttweaker:gold_casing"
+        },
+        {
+            "item": "contenttweaker:gold_casing"
+        },
+        {
+            "item": "contenttweaker:gold_casing"
+        },
+        {
+            "item": "contenttweaker:gold_casing"
+        },
+        {
+            "item": "contenttweaker:gold_casing"
+        },
+        {
+            "item": "contenttweaker:gold_casing"
+        },
+        {
+            "item": "contenttweaker:gold_casing"
+        },
+        {
+            "item": "contenttweaker:gold_casing"
+        },
+        {
+            "item": "contenttweaker:gold_casing"
+        },
+        {
+            "item": "contenttweaker:gold_casing"
+        },
+        {
+            "item": "contenttweaker:gold_casing"
+        },
+        {
+            "item": "contenttweaker:gold_casing"
+        },
+        {
+            "item": "minecraft:gunpowder"
+        },
+        {
+            "item": "minecraft:gunpowder"
+        },
+        {
+            "item": "minecraft:gunpowder"
+        },
+        {
+            "item": "minecraft:gunpowder"
+        },
+        {
+            "item": "minecraft:gunpowder"
+        },
+        {
+            "item": "minecraft:gunpowder"
+        },
+        {
+            "item": "minecraft:gunpowder"
         }
     ],
     "results": [

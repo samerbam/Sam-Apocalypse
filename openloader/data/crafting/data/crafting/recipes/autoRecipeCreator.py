@@ -231,16 +231,31 @@ if __name__ == "__main__":
 		for x in types_and_amounts_with_types:
 			print(x)
 			localOutput["type"] = "create:mixing"
-			localOutput["ingredients"] = [
-				{
-					"item": f"{x[2]}",
-					"count": int(x[1]) if int(x[1])<=bullets_per_min else int(round(15+(int(x[1])/bullets_per_casing)))
-				},
-				{
-					"item": "minecraft:gunpowder",
-					"count": 1 if int(x[1])<=bullets_per_gunpowder else int(round(1+(int(x[1])/bullets_per_gunpowder)))
-				}
-			]
+			localOutput["ingredients"] = []
+
+			for i in range(int(x[1]) if int(x[1])<=bullets_per_min else int(round(15+(int(x[1])/bullets_per_casing)))):
+				localOutput["ingredients"].append(
+					{
+						"item": f"{x[2]}"
+					}
+				)
+
+			for i in range(1 if int(x[1])<=bullets_per_gunpowder else int(round(1+(int(x[1])/bullets_per_gunpowder)))):
+				localOutput["ingredients"].append(
+					{
+						"item": "minecraft:gunpowder"
+					}
+				)
+
+			# {
+			# 	"item": f"{x[2]}",
+			# 	"count": int(x[1]) if int(x[1])<=bullets_per_min else int(round(15+(int(x[1])/bullets_per_casing)))
+			# },
+			# {
+			# 	"item": "minecraft:gunpowder",
+			# 	"count": 1 if int(x[1])<=bullets_per_gunpowder else int(round(1+(int(x[1])/bullets_per_gunpowder)))
+			# }
+
 			localOutput["results"] = [
 				{
 					"item": f"craftingdead:{x[0]}",
