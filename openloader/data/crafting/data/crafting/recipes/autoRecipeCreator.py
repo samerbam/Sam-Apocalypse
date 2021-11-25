@@ -233,7 +233,7 @@ if __name__ == "__main__":
 			localOutput["type"] = "create:mixing"
 			localOutput["ingredients"] = [
 				{
-					"item": f"contenttweaker:{x[2]}_casing",
+					"item": f"{x[2]}",
 					"count": int(x[1]) if int(x[1])<=bullets_per_min else int(round(15+(int(x[1])/bullets_per_casing)))
 				},
 				{

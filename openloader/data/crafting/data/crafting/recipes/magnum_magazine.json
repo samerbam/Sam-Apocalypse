@@ -2,7 +2,7 @@
     "type": "create:mixing",
     "ingredients": [
         {
-            "item": "contenttweaker:copper_casing",
+            "item": "immersiveengineering:empty_casing",
             "count": 6
         },
         {
