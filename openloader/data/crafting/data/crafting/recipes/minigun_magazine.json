@@ -1,0 +1,19 @@
+{
+    "type": "create:mixing",
+    "ingredients": [
+        {
+            "item": "contenttweaker:iron_casing",
+            "count": 85
+        },
+        {
+            "item": "minecraft:gunpowder",
+            "count": 24
+        }
+    ],
+    "results": [
+        {
+            "item": "craftingdead:minigun_magazine",
+            "count": 1
+        }
+    ]
+}

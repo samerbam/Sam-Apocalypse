@@ -1,0 +1,19 @@
+{
+    "type": "create:mixing",
+    "ingredients": [
+        {
+            "item": "contenttweaker:copper_casing",
+            "count": 12
+        },
+        {
+            "item": "minecraft:gunpowder",
+            "count": 1
+        }
+    ],
+    "results": [
+        {
+            "item": "craftingdead:p250_magazine",
+            "count": 1
+        }
+    ]
+}

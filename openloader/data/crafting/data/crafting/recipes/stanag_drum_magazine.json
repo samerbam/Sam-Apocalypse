@@ -1,0 +1,19 @@
+{
+    "type": "create:mixing",
+    "ingredients": [
+        {
+            "item": "contenttweaker:brass_casing",
+            "count": 24
+        },
+        {
+            "item": "minecraft:gunpowder",
+            "count": 4
+        }
+    ],
+    "results": [
+        {
+            "item": "craftingdead:stanag_drum_magazine",
+            "count": 1
+        }
+    ]
+}

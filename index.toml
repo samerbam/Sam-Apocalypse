@@ -918,12 +918,40 @@ file = "openloader/data/contenttweaker/pack.mcmeta"
 hash = "72e8162e1be5f7ea85be7c2ffead0d31acbd8d1214fde54427e4e510c1d9f02f"
 
 [[files]]
+file = "openloader/data/crafting/data/crafting/recipes/acr_magazine.json"
+hash = "862c40588a05148295d40a3b054d8f1a3fa5875c203e7904f1e50faf36ec9e73"
+
+[[files]]
+file = "openloader/data/crafting/data/crafting/recipes/ak47_30_round_magazine.json"
+hash = "ddb9e469c938b8acd996fc2c70ca1e4d10e623905c90943304e08606ac5f3fd1"
+
+[[files]]
+file = "openloader/data/crafting/data/crafting/recipes/as50_magazine.json"
+hash = "88167dfa4f7f1c1ec3809c2d89ca4210059433187968e224be30742b8274f083"
+
+[[files]]
+file = "openloader/data/crafting/data/crafting/recipes/autoRecipeCreator.py"
+hash = "95bcf5132a01a906fd92c9c1a12fa15197e299fc1769df1795038d032f5f056b"
+
+[[files]]
+file = "openloader/data/crafting/data/crafting/recipes/awp_magazine.json"
+hash = "32aee9f4fd103e2180b33a6d3cf7fb50b6817c19586d042a967e014312652a26"
+
+[[files]]
 file = "openloader/data/crafting/data/crafting/recipes/brass_casing.json"
 hash = "d38a32e774bebeee46a8bdc76080726cb3ea53d7f80dc14e28c72121465a88f5"
 
 [[files]]
 file = "openloader/data/crafting/data/crafting/recipes/casing.json"
 hash = "88f6d5d088fe7282b2d130b632cbf03f22a206fd9ad77241acb3e9ebfb83658f"
+
+[[files]]
+file = "openloader/data/crafting/data/crafting/recipes/desert_eagle_magazine.json"
+hash = "449782570b50db0ae171403c445b1dd18e673af8011131f2ec2aa1cf03ab684a"
+
+[[files]]
+file = "openloader/data/crafting/data/crafting/recipes/dmr_magazine.json"
+hash = "16116b907f7a659253fc7d1fe72c5105d8740764a1554651eb5b62427be102bc"
 
 [[files]]
 file = "openloader/data/crafting/data/crafting/recipes/empty_casing.json"
@@ -942,12 +970,72 @@ file = "openloader/data/crafting/data/crafting/recipes/endertank.json"
 hash = "4a84e15cd4513c84a65735cfd5f8edf1abe4981f5db9645bdd6ea01b8130be1e"
 
 [[files]]
+file = "openloader/data/crafting/data/crafting/recipes/fn57_magazine.json"
+hash = "5e15d641e8d33c023159655f09c9e4041c679d19ca1396c8f5f7a7e402471c17"
+
+[[files]]
+file = "openloader/data/crafting/data/crafting/recipes/fnfal_magazine.json"
+hash = "3ec96729b52a491d8cbea8daa69cb2a3ae133365d906fc1291e70b0e6a15d1e5"
+
+[[files]]
+file = "openloader/data/crafting/data/crafting/recipes/g18_magazine.json"
+hash = "f4790795c99a67e878e82a4a3977158bd07862c0adf5d8064898d39f3c944030"
+
+[[files]]
+file = "openloader/data/crafting/data/crafting/recipes/g36c_magazine.json"
+hash = "c733f2e63db2587f29b1b8282a25405c97f52f6e7a63a5d3f87dd7d8674297aa"
+
+[[files]]
 file = "openloader/data/crafting/data/crafting/recipes/gold_casing.json"
 hash = "d4bc858f20931ea0d0cf9f11b9bdd7db8a1576f95e75ed69777e118043907aac"
 
 [[files]]
+file = "openloader/data/crafting/data/crafting/recipes/hk417_magazine.json"
+hash = "0ea2e8181b5d9c1a5c818010f0415b4b92b6567ff43b47f24e30c7f9bd83bc45"
+
+[[files]]
 file = "openloader/data/crafting/data/crafting/recipes/iron_casing.json"
 hash = "3a37c8a2d3c7cb2f7248690ee7057761734da89739fb4623518545588890fddf"
+
+[[files]]
+file = "openloader/data/crafting/data/crafting/recipes/m107_magazine.json"
+hash = "d13014ffe5547c0b061ea739fa87a4581c504ca747f86fdc389e202f655a6a90"
+
+[[files]]
+file = "openloader/data/crafting/data/crafting/recipes/m1911_magazine.json"
+hash = "ba8349d0ad92382f7d74eeafb30ae6fbb290ac3fadd2937cfb2798d6648f030b"
+
+[[files]]
+file = "openloader/data/crafting/data/crafting/recipes/m1garand_magazine.json"
+hash = "505b88bd8398915dfe410154dcfb272c5ad9f428f4c76655eea5b5641aa94f34"
+
+[[files]]
+file = "openloader/data/crafting/data/crafting/recipes/m240b_magazine.json"
+hash = "25319067f5fb53cd00eac93353ad52077fe7a1cd0d6785455054e070e5372fba"
+
+[[files]]
+file = "openloader/data/crafting/data/crafting/recipes/m9_magazine.json"
+hash = "2304ba3c8a95fa904167c212876ec801c4d7ff2beecb3e2f3a056d6497a2f1c0"
+
+[[files]]
+file = "openloader/data/crafting/data/crafting/recipes/mac10_extended_magazine.json"
+hash = "9138b6d7d73b1293dd1447b3adb8a5f44b8b3a796872e6fc5e45363f69b61823"
+
+[[files]]
+file = "openloader/data/crafting/data/crafting/recipes/mac10_magazine.json"
+hash = "3e694ee946f3fd4feacdaac5aa1b0cac687014a610aef08db633f97a70372a25"
+
+[[files]]
+file = "openloader/data/crafting/data/crafting/recipes/magnum_magazine.json"
+hash = "e247b40dcf9c4a1a4b0ddafb1dd84345edff060282c30018891c3134fcc23bca"
+
+[[files]]
+file = "openloader/data/crafting/data/crafting/recipes/minigun_magazine.json"
+hash = "9017e551fbad19638728cd6b64126ab852259b91293dd1b4960cc8b25794e75d"
+
+[[files]]
+file = "openloader/data/crafting/data/crafting/recipes/mk48mod_magazine.json"
+hash = "bb206df7f992636ece00aec721548baf2e43edf68ab7d2ca0585b0707c706770"
 
 [[files]]
 file = "openloader/data/crafting/data/crafting/recipes/mossberg_mag.json"
@@ -958,12 +1046,64 @@ file = "openloader/data/crafting/data/crafting/recipes/mossberg_refill.json"
 hash = "407dd1b968c88d1635655be456146228670e47c645a062a8300dbae1fb019026"
 
 [[files]]
+file = "openloader/data/crafting/data/crafting/recipes/mp5a5_21_round_magazine.json"
+hash = "8aa3cd6c1bd41380701581daa23963176bf8d6edd7d0bafe57329c975aec2381"
+
+[[files]]
+file = "openloader/data/crafting/data/crafting/recipes/mp5a5_35_round_magazine.json"
+hash = "46b1e9f3a5c297c52f74b86e5062842a11047be3bcf77ad2dbb49c01cce296cc"
+
+[[files]]
+file = "openloader/data/crafting/data/crafting/recipes/mpt55_magazine.json"
+hash = "62b8ee658294dc551e7786e7363ea635e3470657bf20de60fab79e456e1e4bb8"
+
+[[files]]
+file = "openloader/data/crafting/data/crafting/recipes/p250_magazine.json"
+hash = "e17ea21d5e12609ebe9a271cb0e40507b7526b702e2cafc2731e96de9135ef7a"
+
+[[files]]
+file = "openloader/data/crafting/data/crafting/recipes/p90_magazine.json"
+hash = "22611bd7eae63ebbd3cbe1b6a9ea077b3c5b26e37fa0ad7c648cedf680c24589"
+
+[[files]]
 file = "openloader/data/crafting/data/crafting/recipes/recipeCreator.py"
 hash = "5deccdca34c2b9dac90eaf13feb06daff0878ae634f85dc2f6c8a77ef34fb610"
 
 [[files]]
+file = "openloader/data/crafting/data/crafting/recipes/rpk_drum_magazine.json"
+hash = "2f453416b4cf47a67181048438e2a3b07b8517fab27600e6a512b6372dc86161"
+
+[[files]]
+file = "openloader/data/crafting/data/crafting/recipes/rpk_magazine.json"
+hash = "781cadfc4bd87bb033443ca61f15b283511532b4c9ef5d713201c59af98efffe"
+
+[[files]]
 file = "openloader/data/crafting/data/crafting/recipes/shulkershell.json"
 hash = "5d8bd3fb86cfd3b63bfc2e7cb2ad5f3bf66bfc57104e84bab1656d40d199ac9b"
+
+[[files]]
+file = "openloader/data/crafting/data/crafting/recipes/sporter22_magazine.json"
+hash = "6ab63ec591cae5fee0ff2bd3dac25b8e698d355edc51c4c886792132cf1dca48"
+
+[[files]]
+file = "openloader/data/crafting/data/crafting/recipes/stanag_20_round_magazine.json"
+hash = "c7e8dd3c3046913070eae2f4aa4603f5896f382acb35dcefb1cdc0bbb21b9153"
+
+[[files]]
+file = "openloader/data/crafting/data/crafting/recipes/stanag_30_round_magazine.json"
+hash = "53113b18b202497e3eeaabe5934070ac7af9638695c34f01e8788db9e3803417"
+
+[[files]]
+file = "openloader/data/crafting/data/crafting/recipes/stanag_box_magazine.json"
+hash = "b472f499491057168d6bb92c30b765c98b1d098c0e297f4d6d559907d7fc8e36"
+
+[[files]]
+file = "openloader/data/crafting/data/crafting/recipes/stanag_drum_magazine.json"
+hash = "d83ba158f518acdb0be5ecf59a6f94b8fb21ff963cf400fec6ff7ddbd324b7b3"
+
+[[files]]
+file = "openloader/data/crafting/data/crafting/recipes/taser_cartridge.json"
+hash = "c81d7b3780d512b5ad2d5f1fb37dfa20baeac4e2c5744b380518c4d157eb48a9"
 
 [[files]]
 file = "openloader/data/crafting/data/crafting/recipes/treatedplanks.json"
@@ -976,6 +1116,14 @@ hash = "2517d6c344dd3fea28931fa94d1ab01def7ceca6b5e096f4f85e2568d8b1619b"
 [[files]]
 file = "openloader/data/crafting/data/crafting/recipes/trenchgun_refill.json"
 hash = "59da7ff20dd65848b6c68519ea8409c271415b0bd11c4cf0a3a5d891b53b65ef"
+
+[[files]]
+file = "openloader/data/crafting/data/crafting/recipes/types_and_amounts.csv"
+hash = "36b909b3f9571666da7d5f80c736bac9076a291b0fa7ba014121081d5e0abb81"
+
+[[files]]
+file = "openloader/data/crafting/data/crafting/recipes/vector_magazine.json"
+hash = "5877a3070764aee5e3fd1db50e12e9606c19ce6fad721731a749f09eca687295"
 
 [[files]]
 file = "openloader/data/crafting/pack.mcmeta"

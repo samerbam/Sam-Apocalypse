@@ -1,0 +1,19 @@
+{
+    "type": "create:mixing",
+    "ingredients": [
+        {
+            "item": "contenttweaker:iron_casing",
+            "count": 21
+        },
+        {
+            "item": "minecraft:gunpowder",
+            "count": 3
+        }
+    ],
+    "results": [
+        {
+            "item": "craftingdead:stanag_30_round_magazine",
+            "count": 1
+        }
+    ]
+}

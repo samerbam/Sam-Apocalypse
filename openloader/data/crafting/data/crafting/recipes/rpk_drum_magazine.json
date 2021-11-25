@@ -1,0 +1,19 @@
+{
+    "type": "create:mixing",
+    "ingredients": [
+        {
+            "item": "contenttweaker:iron_casing",
+            "count": 35
+        },
+        {
+            "item": "minecraft:gunpowder",
+            "count": 8
+        }
+    ],
+    "results": [
+        {
+            "item": "craftingdead:rpk_drum_magazine",
+            "count": 1
+        }
+    ]
+}

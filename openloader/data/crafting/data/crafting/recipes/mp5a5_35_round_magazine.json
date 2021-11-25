@@ -1,0 +1,19 @@
+{
+    "type": "create:mixing",
+    "ingredients": [
+        {
+            "item": "contenttweaker:iron_casing",
+            "count": 22
+        },
+        {
+            "item": "minecraft:gunpowder",
+            "count": 3
+        }
+    ],
+    "results": [
+        {
+            "item": "craftingdead:mp5a5_35_round_magazine",
+            "count": 1
+        }
+    ]
+}
