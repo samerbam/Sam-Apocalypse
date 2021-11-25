@@ -7,28 +7,23 @@
     ],
     "results": [
         {
-            "item": "minecraft:lapis_lazuli",
-            "count": 9
-        },
-        {
-            "item": "minecraft:lapis_lazuli",
-            "count": 1,
-            "chance": 0.1
-        },
-        {
-            "item": "minecraft:lapis_lazuli",
-            "count": 1,
-            "chance": 0.1
-        },
-        {
-            "item": "minecraft:lapis_lazuli",
-            "count": 1,
-            "chance": 0.1
-        },
-        {
             "item": "immersiveengineering:dust_sulfur",
             "count": 1,
             "chance": 0.2
+        },
+        {
+            "item": "minecraft:lapis_lazuli",
+            "count": 7
+        },
+        {
+            "item": "minecraft:lapis_lazuli",
+            "count": 1,
+            "chance": 0.50
+        },
+        {
+            "item": "minecraft:lapis_lazuli",
+            "count": 1,
+            "chance": 0.25
         }
     ]
 }

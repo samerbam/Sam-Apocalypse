@@ -1119,7 +1119,7 @@ hash = "10f5ec682e69e96b5e9281fa1d9c560053826a1afa81170942ec65432d312390"
 
 [[files]]
 file = "openloader/data/crafting/data/crafting/recipes/sulfur_lapiz.json"
-hash = "eb34e3a50f71f242274e59ab05947ed519ba21c60228a586cb2927ad0d05709a"
+hash = "ad3684795b0a10e3294058bef1ead3284e62f03ee85ade872c094194b9f9c884"
 
 [[files]]
 file = "openloader/data/crafting/data/crafting/recipes/sulfur_quartz.json"
