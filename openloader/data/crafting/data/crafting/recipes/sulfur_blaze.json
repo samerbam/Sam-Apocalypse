@@ -1,0 +1,24 @@
+{
+    "type": "create:milling",
+    "ingredients": [
+        {
+            "tag": "forge:rods/blaze"
+        }
+    ],
+    "results": [
+        {
+            "item": "minecraft:blaze_powder",
+            "count": 1
+        },
+        {
+            "item": "minecraft:blaze_powder",
+            "count": 1,
+            "chance": 0.1
+        },
+        {
+            "item": "immersiveengineering:dust_sulfur",
+            "count": 1,
+            "chance": 0.5
+        }
+    ]
+}

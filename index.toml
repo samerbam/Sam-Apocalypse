@@ -1078,6 +1078,14 @@ file = "openloader/data/crafting/data/crafting/recipes/rpk_magazine.json"
 hash = "e3aec00f4fa473dec00af8848d3f969361246a14920125f7fb57a0200610d30f"
 
 [[files]]
+file = "openloader/data/crafting/data/crafting/recipes/saltpeter_colorless.json"
+hash = "0db154c0b11be51d6993b75fe149012b177ae88e414f5ade557ee2d9d1c6b55c"
+
+[[files]]
+file = "openloader/data/crafting/data/crafting/recipes/saltpeter_red.json"
+hash = "86f73afa02793d89256798cb5be8cf7d2382e2ca11cb5806d72b0e036805c275"
+
+[[files]]
 file = "openloader/data/crafting/data/crafting/recipes/shulkershell.json"
 hash = "5d8bd3fb86cfd3b63bfc2e7cb2ad5f3bf66bfc57104e84bab1656d40d199ac9b"
 
@@ -1100,6 +1108,22 @@ hash = "3a89844b75c2fa58991c3934755efac095d3a85b2345f1e2a2855ab5cb35afbc"
 [[files]]
 file = "openloader/data/crafting/data/crafting/recipes/stanag_drum_magazine.json"
 hash = "c7d2e49321908d98922508dbc16e215818b009a872984c643e1dabcf7e275f3b"
+
+[[files]]
+file = "openloader/data/crafting/data/crafting/recipes/sulfur_blaze.json"
+hash = "16035954490b30754cbb99e5235ac936f0598406f2b31454723ef562b2ce4cef"
+
+[[files]]
+file = "openloader/data/crafting/data/crafting/recipes/sulfur_coal.json"
+hash = "10f5ec682e69e96b5e9281fa1d9c560053826a1afa81170942ec65432d312390"
+
+[[files]]
+file = "openloader/data/crafting/data/crafting/recipes/sulfur_lapiz.json"
+hash = "eb34e3a50f71f242274e59ab05947ed519ba21c60228a586cb2927ad0d05709a"
+
+[[files]]
+file = "openloader/data/crafting/data/crafting/recipes/sulfur_quartz.json"
+hash = "e23115f23a696e4b384cac395ce16f3f0820f96bbbc06a48580b03578328a25e"
 
 [[files]]
 file = "openloader/data/crafting/data/crafting/recipes/taser_cartridge.json"

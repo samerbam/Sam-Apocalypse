@@ -1,0 +1,29 @@
+{
+    "type": "create:milling",
+    "ingredients": [
+        {
+            "tag": "forge:sandstone/colorless"
+        }
+    ],
+    "results": [
+        {
+            "item": "minecraft:sand",
+            "count": 2
+        },
+        {
+            "item": "minecraft:sand",
+            "count": 1,
+            "chance": 0.5
+        },
+        {
+            "item": "minecraft:sand",
+            "count": 1,
+            "chance": 0.25
+        },
+        {
+            "item": "immersiveengineering:dust_saltpeter",
+            "count": 1,
+            "chance": 0.50
+        }
+    ]
+}
