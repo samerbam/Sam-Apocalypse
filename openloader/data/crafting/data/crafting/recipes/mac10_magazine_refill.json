@@ -1,0 +1,23 @@
+{
+    "type": "create:mixing",
+    "ingredients": [
+        {
+            "item": "craftingdead:mac10_magazine"
+        },
+        {
+            "item": "minecraft:gunpowder"
+        },
+        {
+            "item": "minecraft:gunpowder"
+        },
+        {
+            "item": "minecraft:gunpowder"
+        }
+    ],
+    "results": [
+        {
+            "item": "craftingdead:mac10_magazine",
+            "count": 1
+        }
+    ]
+}

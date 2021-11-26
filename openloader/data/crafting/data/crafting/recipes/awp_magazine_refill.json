@@ -1,0 +1,17 @@
+{
+    "type": "create:mixing",
+    "ingredients": [
+        {
+            "item": "craftingdead:awp_magazine"
+        },
+        {
+            "item": "minecraft:gunpowder"
+        }
+    ],
+    "results": [
+        {
+            "item": "craftingdead:awp_magazine",
+            "count": 1
+        }
+    ]
+}

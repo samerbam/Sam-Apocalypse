@@ -1,0 +1,17 @@
+{
+    "type": "create:mixing",
+    "ingredients": [
+        {
+            "item": "craftingdead:as50_magazine"
+        },
+        {
+            "item": "minecraft:gunpowder"
+        }
+    ],
+    "results": [
+        {
+            "item": "craftingdead:as50_magazine",
+            "count": 1
+        }
+    ]
+}

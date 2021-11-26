@@ -1,0 +1,17 @@
+{
+    "type": "create:mixing",
+    "ingredients": [
+        {
+            "item": "craftingdead:dmr_magazine"
+        },
+        {
+            "item": "minecraft:gunpowder"
+        }
+    ],
+    "results": [
+        {
+            "item": "craftingdead:dmr_magazine",
+            "count": 1
+        }
+    ]
+}

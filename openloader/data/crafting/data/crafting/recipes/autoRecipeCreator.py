@@ -210,6 +210,69 @@ def type1Recipe(rt, special="processingTime", fluid=True, chance=True):
 
 
 
+# Main Recipes
+# if __name__ == "__main__":
+# 	"""
+# 	Run main() until it returns true, probably not great in general, 
+# 	but good for checking for an invalid input and asking again for this
+# 	specific use case.
+# 	"""
+
+# 	# temp = False
+# 	# while (not temp):
+# 		# temp = main()
+
+# 	bullets_per_gunpowder = 15
+# 	bullets_per_casing = 5
+# 	bullets_per_min = 15 # if amount < bullets_per_min, use amount casings, amount > bullets_per_min use, 15+(amounts/5)
+# 	localOutput = {}
+
+# 	with open('types_and_amounts.csv', newline='') as csvfile:
+# 		types_and_amounts_with_types = csv.reader(csvfile, delimiter=',', quotechar='|')
+# 		for x in types_and_amounts_with_types:
+# 			print(x)
+# 			localOutput["type"] = "create:mixing"
+# 			localOutput["ingredients"] = []
+
+# 			for i in range(int(x[1]) if int(x[1])<=bullets_per_min else int(round(15+(int(x[1])/bullets_per_casing)))):
+# 				localOutput["ingredients"].append(
+# 					{
+# 						"item": f"{x[2]}"
+# 					}
+# 				)
+
+# 			for i in range(1 if int(x[1])<=bullets_per_gunpowder else int(round(1+(int(x[1])/bullets_per_gunpowder)))):
+# 				localOutput["ingredients"].append(
+# 					{
+# 						"item": "minecraft:gunpowder"
+# 					}
+# 				)
+
+# 			# {
+# 			# 	"item": f"{x[2]}",
+# 			# 	"count": int(x[1]) if int(x[1])<=bullets_per_min else int(round(15+(int(x[1])/bullets_per_casing)))
+# 			# },
+# 			# {
+# 			# 	"item": "minecraft:gunpowder",
+# 			# 	"count": 1 if int(x[1])<=bullets_per_gunpowder else int(round(1+(int(x[1])/bullets_per_gunpowder)))
+# 			# }
+
+# 			localOutput["results"] = [
+# 				{
+# 					"item": f"craftingdead:{x[0]}",
+# 					"count": 1
+# 				}
+# 			]
+
+
+# 			with open(f"{x[0]}.json", 'w', encoding='utf-8') as f:
+# 				json.dump(localOutput, f, ensure_ascii=False, indent=4)
+
+# 	# with open(f"{input(f'[{current_item}] filename ')}.json", 'w', encoding='utf-8') as f:
+# 	# 	json.dump(temp, f, ensure_ascii=False, indent=4)
+
+
+# Refil recipes
 if __name__ == "__main__":
 	"""
 	Run main() until it returns true, probably not great in general, 
@@ -233,12 +296,12 @@ if __name__ == "__main__":
 			localOutput["type"] = "create:mixing"
 			localOutput["ingredients"] = []
 
-			for i in range(int(x[1]) if int(x[1])<=bullets_per_min else int(round(15+(int(x[1])/bullets_per_casing)))):
-				localOutput["ingredients"].append(
-					{
-						"item": f"{x[2]}"
-					}
-				)
+			# for i in range(int(x[1]) if int(x[1])<=bullets_per_min else int(round(15+(int(x[1])/bullets_per_casing)))):
+			localOutput["ingredients"].append(
+				{
+					"item": f"craftingdead:{x[0]}"
+				}
+			)
 
 			for i in range(1 if int(x[1])<=bullets_per_gunpowder else int(round(1+(int(x[1])/bullets_per_gunpowder)))):
 				localOutput["ingredients"].append(
@@ -264,12 +327,10 @@ if __name__ == "__main__":
 			]
 
 
-			with open(f"{x[0]}.json", 'w', encoding='utf-8') as f:
+			with open(f"{x[0]}_refill.json", 'w', encoding='utf-8') as f:
 				json.dump(localOutput, f, ensure_ascii=False, indent=4)
 
 	# with open(f"{input(f'[{current_item}] filename ')}.json", 'w', encoding='utf-8') as f:
 	# 	json.dump(temp, f, ensure_ascii=False, indent=4)
-
-
 
 
