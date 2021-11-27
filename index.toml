@@ -590,6 +590,11 @@ hash = "65b51e6230212928e24dfbfe004a849963b5d371b5c69aa39fe0fd5da3f0e6e2"
 metafile = true
 
 [[files]]
+file = "mods/crafting-dead-survival.toml"
+hash = "87b5b916f948fba54d71e44a16581bb11b9aa5530a3d24eb6f8962fb7bf9f8c6"
+metafile = true
+
+[[files]]
 file = "mods/crafting-dead.toml"
 hash = "e1b83cea66fdcad790a591964cd67fc950d5d31ca75170b0dad40dfce01f5130"
 metafile = true

@@ -1,0 +1,13 @@
+name = "Crafting Dead Survival"
+filename = "crafting-dead-survival-1.16.5-1.1.8-alpha.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3453/295/crafting-dead-survival-1.16.5-1.1.8-alpha.jar"
+hash-format = "murmur2"
+hash = "1615415541"
+
+[update]
+[update.curseforge]
+file-id = 3453295
+project-id = 471033
