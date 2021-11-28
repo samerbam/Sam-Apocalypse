@@ -850,6 +850,11 @@ hash = "9a089f5e5c4251943b18e76199aeca5676ba4e493fe95929838d6ed4b24e771e"
 metafile = true
 
 [[files]]
+file = "mods/survive.toml"
+hash = "a30b2a69a26fbeed51a5209e25f6e56227b889f63aac3b90e9da79c8ba0f36d3"
+metafile = true
+
+[[files]]
 file = "mods/swingthroughgrass.toml"
 hash = "ef285b1aeaba3e7240c76651fde6a74085dc6388b6d016abe56429f030363c9e"
 metafile = true

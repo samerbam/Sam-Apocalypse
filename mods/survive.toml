@@ -1,0 +1,13 @@
+name = "Survive"
+filename = "Survive-1.16.5-3.4.4.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3416/821/Survive-1.16.5-3.4.4.jar"
+hash-format = "murmur2"
+hash = "225047224"
+
+[update]
+[update.curseforge]
+file-id = 3416821
+project-id = 367337
