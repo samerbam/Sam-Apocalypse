@@ -850,6 +850,11 @@ hash = "9a089f5e5c4251943b18e76199aeca5676ba4e493fe95929838d6ed4b24e771e"
 metafile = true
 
 [[files]]
+file = "mods/survive.toml"
+hash = "cf61092aead3409cd1b16ce6c8da77e5250723b5765377feabdd451de3c4b438"
+metafile = true
+
+[[files]]
 file = "mods/swingthroughgrass.toml"
 hash = "ef285b1aeaba3e7240c76651fde6a74085dc6388b6d016abe56429f030363c9e"
 metafile = true
@@ -872,6 +877,11 @@ metafile = true
 [[files]]
 file = "mods/travelers-backpack.toml"
 hash = "8dfb70477839beb47244839edc982dac466719d2aad64e98684a2ad254c4be7f"
+metafile = true
+
+[[files]]
+file = "mods/unionlib.toml"
+hash = "455cd5991fe4903ef51e8ecb4dacc13c3def1cc49020dd17b630477d07066c0c"
 metafile = true
 
 [[files]]
