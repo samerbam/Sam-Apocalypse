@@ -397,6 +397,18 @@ file = "config/storagedrawers-common.toml"
 hash = "8d0e89edb7cb35ad835c34e56067cfc8d947ac683c72d1541c40704cd2334415"
 
 [[files]]
+file = "config/survive-server.toml"
+hash = "7f123f64ce4ff09f83470b2fcf7cd42f6fb563f168d6d5ab89cdf9bb9ab09af3"
+
+[[files]]
+file = "config/survive.client.toml"
+hash = "777ffd9c9f0fc1e87ebbda3d58f08eb04d0d095909390c7520aefdea8a28767a"
+
+[[files]]
+file = "config/survive.common.toml"
+hash = "560a1ba81fc66a318b7712a824bd6c196cc5ea9417ffd3c99ddf0bfcb22f7aa7"
+
+[[files]]
 file = "config/toastcontrol-common.toml"
 hash = "4dd1cc1b9f2e65e9e70de919f20915540a8f8558a57d7642140149bf89fb57f9"
 
@@ -407,6 +419,14 @@ hash = "45aa8eeb308f83bc2828ee601b1a4f37580daafcf5e2cee5d65cbb0072e58e17"
 [[files]]
 file = "config/travelersbackpack-common.toml"
 hash = "9645af91049b0a4ada995b688cc2de9dc5276e74c06e3cc8a3bc0bb2ed77515e"
+
+[[files]]
+file = "config/union.client.toml"
+hash = "ed64b29572262168d4a1c5c6a5fd976cf3fe0c1a69b00cea6ec65691b4819b4b"
+
+[[files]]
+file = "config/union.common.toml"
+hash = "a147c7e98511e994ba1fc99f313c9736afec4288e3fdb4c836ed2dcaecd449bb"
 
 [[files]]
 file = "config/valhelsia_structures-client.toml"
@@ -1355,7 +1375,7 @@ hash = "d983d4932464ef867d315dc3018746507f3066878e4f1f76ce9044d03bfd9a60"
 
 [[files]]
 file = "scripts/recipes.zs"
-hash = "98237045f964754d9e6c73687efb3d6e2bd8806b17d8bda4393d923c6f9070b8"
+hash = "a897bcbbdaa0113fd57bd95ccdd78f229e2e4b8f3fd9379235c4e00424647c3f"
 
 [[files]]
 file = "scripts/stages.zs"
