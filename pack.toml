@@ -1,6 +1,6 @@
 name = "Sam Apocalypse"
 author = "Sam"
-version = "1.2.6"
+version = "1.2.7"
 pack-format = "packwiz:1.0.0"
 
 [index]
