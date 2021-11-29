@@ -760,6 +760,11 @@ hash = "91d24bd43930be485c1e07d2031292693216f724bcd580ab893cdb1da7411b20"
 metafile = true
 
 [[files]]
+file = "mods/more-mounted-storages.toml"
+hash = "b0de2cb0fc18b29d1c74cce4221d6f13793981e0c40c5d75446f92b2b4cde993"
+metafile = true
+
+[[files]]
 file = "mods/more-zombie-villagers.toml"
 hash = "e6dbb6d4bf3e7749a1e3809769b3747fe239f7a984d638e0cd6b918393fc09be"
 metafile = true
