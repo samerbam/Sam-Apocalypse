@@ -373,6 +373,10 @@ file = "config/quark-common.toml"
 hash = "eeec98d0920e2af3384fadcf009b93d6d4ccb49d4206162b9d86ae33cbedea11"
 
 [[files]]
+file = "config/randompatches.toml"
+hash = "48b7f34ffba9212ad187f408320764e115e12ded73361a5a95a3f9982865a1c5"
+
+[[files]]
 file = "config/securitycraft-client.toml"
 hash = "ab4c0b6311ef744c4aa3e7fd4713b740816255c0b4904bd32d460589ce893bde"
 
