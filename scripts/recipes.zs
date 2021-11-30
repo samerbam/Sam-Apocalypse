@@ -3,9 +3,7 @@ craftingTable.removeByModid("enderstorage");
 craftingTable.removeByModid("immersiveengineering", (name as string) => {
     return name != "crafting/empty_casing";
 });
-craftingTable.removeByModid("create", (name as string) => {
-    return name != "milling/sandstone";
-});
+<recipetype:create:milling>.removeRecipe(<item:create:standstone>);
 #craftingTable.removeRecipe(<item:immersiveengineering:empty_casing>);
 #craftingTable.removeByModid("ironchest");
 #craftingTable.removeByModid("immersiveengineering");
