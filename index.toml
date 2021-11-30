@@ -675,8 +675,18 @@ hash = "8ebe0fd4208696be3ae9d1d67c506e4b38da0679b38d1321796f2fc9d4f5f1a4"
 metafile = true
 
 [[files]]
+file = "mods/fastfurnace.toml"
+hash = "0aa9be4a11efa334c4485a3c2462262f83cd8c0dd3c9a9284d90ef87373bab05"
+metafile = true
+
+[[files]]
 file = "mods/fastworkbench.toml"
 hash = "20ddb1d94014f1d5024effdcac70f491c5bb31d3828e009b4487d95a6749a46a"
+metafile = true
+
+[[files]]
+file = "mods/ferritecore.toml"
+hash = "305affb1cff160ec5cd4f1c23192259985870e10eb94ce52cb54afba63f7c6b4"
 metafile = true
 
 [[files]]
@@ -775,6 +785,16 @@ hash = "b1ad499364683d41dfcc4d7e63f75bf1939f8d8fd3d663af26f9103d9245571e"
 metafile = true
 
 [[files]]
+file = "mods/lazy-dfu-forge.toml"
+hash = "96aa94af84d9d63fb8d9b27317f95a00721bc3144d2461faa7a456b4e16ad188"
+metafile = true
+
+[[files]]
+file = "mods/mcmt-multithreading.toml"
+hash = "fc1e195219d5b2a4b796ba87b7e008e88329808e1964e85d8d5d53be8a076fb8"
+metafile = true
+
+[[files]]
 file = "mods/mob-sunscreen.toml"
 hash = "91d24bd43930be485c1e07d2031292693216f724bcd580ab893cdb1da7411b20"
 metafile = true
@@ -847,6 +867,11 @@ metafile = true
 [[files]]
 file = "mods/quark.toml"
 hash = "c2aeaa953798cb30f6ffd8fb71e26e3346df46a57ea057730f993d7ba96873ae"
+metafile = true
+
+[[files]]
+file = "mods/randompatches-forge.toml"
+hash = "e0ef646616594c72d923b2f21f3f5a6fec7bf04b5764f624d30fe59bb5b48c6c"
 metafile = true
 
 [[files]]
