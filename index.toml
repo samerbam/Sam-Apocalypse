@@ -840,6 +840,11 @@ hash = "703f9166e481fd2d4e2c7a0ecb11db6508729302ca7f9f20cdc9cbaedc19952c"
 metafile = true
 
 [[files]]
+file = "mods/polymorph.toml"
+hash = "c458929aba2e39bf34e2d14985d30984a46eaae4cae040fa198561f8ef616985"
+metafile = true
+
+[[files]]
 file = "mods/quark.toml"
 hash = "c2aeaa953798cb30f6ffd8fb71e26e3346df46a57ea057730f993d7ba96873ae"
 metafile = true
