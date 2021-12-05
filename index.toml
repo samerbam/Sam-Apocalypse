@@ -1060,6 +1060,10 @@ file = "openloader/data/crafting/data/crafting/recipes/enderchest.json"
 hash = "364f525507a84fec0b48f60aa81ea022d85dd8c6e89fe44b0e3a776250563395"
 
 [[files]]
+file = "openloader/data/crafting/data/crafting/recipes/enderpearls.json"
+hash = "516f2eed6786627f3bdabe5b62756a226bc8555fa3fe3f596afbb73c1b1d9c42"
+
+[[files]]
 file = "openloader/data/crafting/data/crafting/recipes/enderpouch.json"
 hash = "32e1078b5bbc8f258b3724265ed067c79ee830eea7a01312c7694470f03232dc"
 
@@ -1273,7 +1277,7 @@ hash = "86f73afa02793d89256798cb5be8cf7d2382e2ca11cb5806d72b0e036805c275"
 
 [[files]]
 file = "openloader/data/crafting/data/crafting/recipes/shulkershell.json"
-hash = "5d8bd3fb86cfd3b63bfc2e7cb2ad5f3bf66bfc57104e84bab1656d40d199ac9b"
+hash = "3508b0fe1a308017f9c5a90c54e85cd220eb86d25f2d53133774cefdfabba6a4"
 
 [[files]]
 file = "openloader/data/crafting/data/crafting/recipes/sporter22_magazine.json"

@@ -1,0 +1,33 @@
+{
+  "type": "astralsorcery:altar",
+  "altar_type": 0,
+  "duration": 100,
+  "starlight": 100,
+  "pattern": [
+    "_____",
+    "__B__",
+    "_CAC_",
+    "__B__",
+    "_____"
+  ],
+  "key": {
+    "A": {
+      "item": "create:blaze_cake"
+    },
+    "B": {
+      "item": "astralsorcery:aquamarine"
+    },
+    "C": {
+      "item": "create:refined_radiance"
+    }
+  },
+  "output": [
+    {
+      "item": "minecraft:ender_pearl",
+      "count": 1
+    }
+  ],
+  "effects": [
+    "astralsorcery:built_in_effect_discovery_central_beam"
+  ]
+}
