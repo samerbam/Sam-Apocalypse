@@ -640,7 +640,7 @@ metafile = true
 
 [[files]]
 file = "mods/createtweaker.toml"
-hash = "537f4dcc546cca13c8ab0882e95380eb7d7bacd9d8c4f269e52c1b53003643ee"
+hash = "46b316cce9a996c4d9c3a751543129f386c1cf97d76968596a6f26cd61d3623d"
 metafile = true
 
 [[files]]
