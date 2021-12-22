@@ -929,6 +929,11 @@ hash = "38a97c615dc2dcc97c24c16c0dcb65f503403f4f44097e50075d6402c8228093"
 metafile = true
 
 [[files]]
+file = "mods/tinkers-construct.toml"
+hash = "4e79c0390b9aa057607a10cfa397bd13c023c4bb4c0373f9e26e146e80b83efa"
+metafile = true
+
+[[files]]
 file = "mods/toast-control.toml"
 hash = "5899d4c9d2f87ab7ef5baa1272d8b6852dcf5d495afdab4321956ee5057c1aed"
 metafile = true
@@ -936,6 +941,11 @@ metafile = true
 [[files]]
 file = "mods/travelers-backpack.toml"
 hash = "8dfb70477839beb47244839edc982dac466719d2aad64e98684a2ad254c4be7f"
+metafile = true
+
+[[files]]
+file = "mods/ultimate-car-mod.toml"
+hash = "630f44e73cc459674ab1902d35271dbe6c534c0fbe9842e4028de425da285e8b"
 metafile = true
 
 [[files]]
