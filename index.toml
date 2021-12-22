@@ -794,6 +794,11 @@ hash = "96aa94af84d9d63fb8d9b27317f95a00721bc3144d2461faa7a456b4e16ad188"
 metafile = true
 
 [[files]]
+file = "mods/mantle.toml"
+hash = "9b023a70d51d9a68f1b526f5bf9507dbee0b95199a109fb7e94c653a6fa8f028"
+metafile = true
+
+[[files]]
 file = "mods/mcmt-multithreading.toml"
 hash = "fc1e195219d5b2a4b796ba87b7e008e88329808e1964e85d8d5d53be8a076fb8"
 metafile = true
@@ -859,6 +864,11 @@ hash = "7494253df019ff910e664b512861463957157d5b480fef979758fb06e906fe8b"
 metafile = true
 
 [[files]]
+file = "mods/patchouli.toml"
+hash = "4096fe53f38b3a3132f6008c6e06108896baf662196c90f124ffc9054021a0dd"
+metafile = true
+
+[[files]]
 file = "mods/placebo.toml"
 hash = "703f9166e481fd2d4e2c7a0ecb11db6508729302ca7f9f20cdc9cbaedc19952c"
 metafile = true
@@ -891,6 +901,11 @@ metafile = true
 [[files]]
 file = "mods/security-craft.toml"
 hash = "ad04d680c738287ee61b436f837a880169e229043924078fee4a12ce1977589a"
+metafile = true
+
+[[files]]
+file = "mods/simple-planes.toml"
+hash = "aa809217a57f673c3a0ca54d9d168085e1d775fad9d2f765854de0e094f6723f"
 metafile = true
 
 [[files]]
