@@ -301,6 +301,10 @@ file = "config/jeresources.toml"
 hash = "dba9b465be70853db2eaa9ab61747b244c2dd1127668dd72121251150a4833a1"
 
 [[files]]
+file = "config/jmt_mcmt-common.toml"
+hash = "1289ec6c2ec5c67986a5d6ff8fb737bb451aa17f4722a8ee656a582ae60029e4"
+
+[[files]]
 file = "config/lostcities/client.toml"
 hash = "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b"
 
