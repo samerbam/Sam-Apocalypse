@@ -1,0 +1,13 @@
+name = "Nature's Minerals"
+filename = "natureminerals-0.9.6-1.16.5-36.2.8.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3505/914/natureminerals-0.9.6-1.16.5-36.2.8.jar"
+hash-format = "murmur2"
+hash = "272465328"
+
+[update]
+[update.curseforge]
+file-id = 3505914
+project-id = 469480

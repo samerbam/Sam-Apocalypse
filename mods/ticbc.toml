@@ -1,0 +1,13 @@
+name = "TiCBC - Tinkers Better Compat"
+filename = "bettercompat-0.4-1.16.5-36.2.8.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3520/674/bettercompat-0.4-1.16.5-36.2.8.jar"
+hash-format = "murmur2"
+hash = "2465982868"
+
+[update]
+[update.curseforge]
+file-id = 3520674
+project-id = 475145

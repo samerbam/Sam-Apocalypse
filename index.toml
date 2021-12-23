@@ -534,6 +534,11 @@ hash = "ae578c8ecfe6f63391d63bbeab033f747cd4bc8fca813c308db30d52fa1f76c5"
 metafile = true
 
 [[files]]
+file = "mods/betterend-forge-port.toml"
+hash = "67ce7d811bf776b0cd1ce368863fdfab06eebcf6127bf40b301f49a22abb485e"
+metafile = true
+
+[[files]]
 file = "mods/biomes-o-plenty.toml"
 hash = "0e575eb8be48a3c5e3ebef0b7978575f2ffdb8870377baa93a47822abd66a180"
 metafile = true
@@ -799,6 +804,11 @@ hash = "9b023a70d51d9a68f1b526f5bf9507dbee0b95199a109fb7e94c653a6fa8f028"
 metafile = true
 
 [[files]]
+file = "mods/materialis.toml"
+hash = "8c851dd5810a937c93644cc26e7a857c0fd4abae5c4f8fb525e4a0caab84d71a"
+metafile = true
+
+[[files]]
 file = "mods/mcmt-multithreading.toml"
 hash = "fc1e195219d5b2a4b796ba87b7e008e88329808e1964e85d8d5d53be8a076fb8"
 metafile = true
@@ -831,6 +841,11 @@ metafile = true
 [[files]]
 file = "mods/mrcrayfish-furniture-mod.toml"
 hash = "7035dd99730c84b68c024c050ee08f15e8a107c11d3fdf3d8abe061adf8d08d9"
+metafile = true
+
+[[files]]
+file = "mods/natures-minerals.toml"
+hash = "7161d21a58881f6a85b629f38f1ab1b8ef1125cb2f5ec80329ca50c0f294aa8c"
 metafile = true
 
 [[files]]
@@ -941,6 +956,11 @@ metafile = true
 [[files]]
 file = "mods/the-lost-cities.toml"
 hash = "38a97c615dc2dcc97c24c16c0dcb65f503403f4f44097e50075d6402c8228093"
+metafile = true
+
+[[files]]
+file = "mods/ticbc.toml"
+hash = "a97b8f623175e1e3db34269a0b7fa839caefb3bd2fba9e96bd7b025fda13f3a5"
 metafile = true
 
 [[files]]

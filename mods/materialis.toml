@@ -1,0 +1,13 @@
+name = "Materialis"
+filename = "materialis-1.16.5-2.4.2.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3575/891/materialis-1.16.5-2.4.2.jar"
+hash-format = "murmur2"
+hash = "3718572272"
+
+[update]
+[update.curseforge]
+file-id = 3575891
+project-id = 377652
