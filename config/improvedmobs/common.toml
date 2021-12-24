@@ -2,6 +2,7 @@
 #With default value every difficulty perk maxes out at difficulty 250
 [general]
 	#Mobs to include for the new light spawning rules.
+	#Only prevention is possible. Meaning you cant allow mobs to spawn at higher light levels
 	"Light list" = []
 	#Should punish time skipping with e.g. bed, commands? If false, difficulty will increase by 0.1 regardless of skipped time.
 	"Punish Time Skip" = true
@@ -9,15 +10,21 @@
 	FriendlyFire = false
 	#Blacklist for pet you should't be able to give armor to. Pets from mods, which have custom armor should be included here.
 	"Pet Blacklist" = []
-	#Turn the list list whitelist to blacklist
+	#Turn the light list whitelist to blacklist
 	"Light list blacklist" = false
 	#Treat pet blacklist as whitelist
 	"Pet Whitelist" = false
 	#Light level >= x will prevent mob spawning for defined mobs.
 	#Range: 0 ~ 16
-	Light = 7
+	Light = 6
 	#Disable/Enables the whole difficulty scaling of this mod. Requires a mc restart
 	"Enable difficulty scaling" = true
+	#Handles increase in difficulty regarding current difficulty.
+	#Format is <minimum current difficulty>-<increase every 2400 ticks>
+	#Example ["0-0.01","10-0.1","30-0"]
+	#So the difficulty increases by 0.01 every 2400 ticks (->0.1 per mc day) till it reaches a difficulty of 10.
+	#Then it increases by 1 per mc day till it reaches 30 and then stops.
+	"Difficulty Increase" = ["0-0.1"]
 	#Time in ticks for which the difficulty shouldnt increase at the beginning. One full minecraft day is 24000 ticks
 	"Difficulty Delay" = 24000
 	#Wether difficulty should only increase with at least one online players or not
@@ -39,6 +46,8 @@
 	"Ladder Whitelist" = false
 	#Treat USEITEM flags as whitelist
 	"Item Use Whitelist" = false
+	#Put the above flags here to completly disable them.
+	"Flag Blacklist" = []
 	#Treat ATTRIBUTES flags as whitelist
 	"Attribute Whitelist" = false
 	#Treat BLOCKBREAK flags as whitelist
@@ -72,34 +81,39 @@
 
 #Settings regarding custom ai for mobs
 [ai]
-	#Chance for a mob to be able to steal items
-	#Range: 0.0 ~ 1.0
-	"Stealer Chance" = 0.3
-	#Treat Block Whitelist as Blocklist
-	"Block as BlacklistBlock as Blacklist" = false
-	#Chance for neutral mobs to be aggressive
-	#Range: 0.0 ~ 1.0
-	"Neutral Aggressive Chance" = 0.2
 	#Should mobs be able to break tile entities? Evaluated before the break list
 	"Break Tiles" = true
+	#Items which will be given to mobs who can break blocks. Empty list = no items. Syntax: id;weight
+	"Breaking items" = ["minecraft:diamond_pickaxe;1"]
 	#Chance for a mob to be able to break blocks
 	#Range: 0.0 ~ 1.0
 	"Breaker Chance" = 0.3
 	#List for of pairs containing which mobs auto target others. Syntax is [mob id]-[mob id] where second value is the target.
 	# e.g. minecraft:zombie-minecraft:skeleton makes all zombies target skeletons
 	"Auto Target List" = []
-	#Difficulty at which mobs are able to break blocks
-	"Difficulty Break AI" = 5.0
 	#Difficulty at which mobs are able to steal items
 	"Difficulty Steal AI" = 0.0
 	#Use the block breaking sound instead of a knocking sound
 	Sound = false
+	#Initial cooldown for block breaking mobs
+	"Breaker Initial Cooldown" = 120
+	#Treat Block Whitelist as Blocklist
+	"Block as Blacklist" = false
+	#Chance for a mob to be able to steal items
+	#Range: 0.0 ~ 1.0
+	"Stealer Chance" = 0.0
+	#Chance for neutral mobs to be aggressive
+	#Range: 0.0 ~ 1.0
+	"Neutral Aggressive Chance" = 0.2
+	#Difficulty at which mobs are able to break blocks
+	"Difficulty Break AI" = 5.0
 	#Whitelist for blocks, which can be actively broken. Usage: <registry name;classname;tag> put "!" infront to exclude blocks
+	#If you includery common blocks (like grass blocks) the pathfinding will be a bit strange
 	"Block Whitelist" = ["forge:glass", "forge:glass_panes", "minecraft:fence_gates", "forge:fence_gates", "minecraft:wooden_doors"]
-	#Item which will be given to mobs who can break blocks. Set to nothing to not give any items.
-	"Breaking item" = "zombie_extreme:fireaxe"
 	#Delay for the coroutil repair block. Coroutil integration needs to be enabled
 	"Repair Ticks" = 500
+	#Cooldown for breaking blocks
+	"Breaker Cooldown" = 20
 
 #Configs regarding mobs spawning with equipment
 [equipment]
@@ -110,6 +124,11 @@
 	"Enchanting Calc" = ["0-5-10", "25-5-15", "50-10-17", "100-15-25", "200-20-30", "250-30-35"]
 	#Adds additional x*difficulty% to base enchanting chance
 	"Enchanting Addition" = 0.2
+	#Blacklist for specific mobs and items they shouldnt use (e.g. skeletons already use bows)
+	#<entity registry name-item>
+	#For different items but same entity use multiple lines
+	#Some special names are BOW, TRIDEN, CROSSBOW refering to every bow/trident/crossbow item (So you dont need to type e.g. every bow item)
+	"Entity Item Use Blacklist" = ["minecraft:drowned;TRIDENT", "minecraft:illusioner;BOW", "minecraft:piglin;CROSSBOW", "minecraft:pillager;CROSSBOW", "minecraft:skeleton;BOW", "minecraft:snow_golem;minecraft:snowball", "minecraft:stray;BOW", "minecraft:wither_skeleton;BOW"]
 	#Base chance that a mob can have one piece of armor
 	#Range: 0.0 ~ 1.0
 	"Equipment Chance" = 0.1
@@ -126,12 +145,17 @@
 	#Chance for mobs to have an item in offhand
 	#Range: 0.0 ~ 1.0
 	"Item Equip Chance" = 0.05
-	#Blacklist for mods. Add modid to prevent items from that mod being used. (For individual items use the equipment.json)
+	#Blacklist for items mobs should never be able to use.
+	#Use as in using the item similar to players (e.g. shooting bows)
+	"Item Use Blacklist" = ["bigbrain:buckler"]
+	#Blacklist for mods. Add modid to prevent items from that mod being equipped. (For individual items use the equipment.json)
 	"Item Blacklist" = []
 	#Adds additional x*difficulty% to base equip chance
 	"Equipment Addition" = 0.3
 	#Adds additional x*difficulty% to base weapon chance
 	"Weapon Chance Add" = 0.3
+	#Turn the use blacklist into a whitelist
+	"Item Use Whitelist" = false
 	#Use blacklist as whitelist
 	"Item Whitelist" = false
 
