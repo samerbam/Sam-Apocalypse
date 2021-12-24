@@ -258,7 +258,7 @@ hash = "e91e552093377bc4e8ef1e9cc50d1e41551041eb1acaba92b770db9b5ad3497a"
 
 [[files]]
 file = "config/improvedmobs/common.toml"
-hash = "32317c72953405e69f1959451a9c1904563a175f40389d73110b0712df4ca4c2"
+hash = "49a33b210a0b4a99744eac9ef932e5dc43dae2338a56572b3cda3b569d1def9a"
 
 [[files]]
 file = "config/improvedmobs/equipment.json"

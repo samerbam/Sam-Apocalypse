@@ -11,12 +11,12 @@
 	#Blacklist for pet you should't be able to give armor to. Pets from mods, which have custom armor should be included here.
 	"Pet Blacklist" = []
 	#Turn the light list whitelist to blacklist
-	"Light list blacklist" = false
+	"Light list blacklist" = true
 	#Treat pet blacklist as whitelist
 	"Pet Whitelist" = false
 	#Light level >= x will prevent mob spawning for defined mobs.
 	#Range: 0 ~ 16
-	Light = 6
+	Light = 7
 	#Disable/Enables the whole difficulty scaling of this mod. Requires a mc restart
 	"Enable difficulty scaling" = true
 	#Handles increase in difficulty regarding current difficulty.
