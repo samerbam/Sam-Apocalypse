@@ -509,7 +509,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-forge.toml"
-hash = "a8f85d518f1cb99f50383cc4f3985a03325066686384d515ccadfe0c15a162c1"
+hash = "3c6c58f38f1a07a0cff45db08f6a032a1a667ce807e053a6d430d53154fd62b0"
 metafile = true
 
 [[files]]
@@ -805,6 +805,11 @@ metafile = true
 [[files]]
 file = "mods/lazy-dfu-forge.toml"
 hash = "96aa94af84d9d63fb8d9b27317f95a00721bc3144d2461faa7a456b4e16ad188"
+metafile = true
+
+[[files]]
+file = "mods/light-overlay.toml"
+hash = "05a85a99ba5d8b57e8f0425d51fc9e2f29d3ac2845d9ff8bc676818c5f1b3dae"
 metafile = true
 
 [[files]]
