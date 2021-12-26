@@ -489,5 +489,349 @@
 				ftb_money: 1L
 			}]
 		}
+		{
+			x: -2.0d
+			y: -5.0d
+			id: "454DB8F3C8C0738A"
+			tasks: [{
+				id: "30459AC0286575EC"
+				type: "kill"
+				icon: "minecraft:shulker_shell"
+				entity: "minecraft:shulker"
+				value: 10L
+			}]
+			rewards: [{
+				id: "44A1C60BCB775F7F"
+				type: "ftbmoney:money"
+				ftb_money: 1L
+			}]
+		}
+		{
+			x: 4.0d
+			y: -8.5d
+			id: "7146DC31C2067D82"
+			tasks: [{
+				id: "4AE822B8A1C7D0D4"
+				type: "advancement"
+				advancement: "minecraft:end/find_end_city"
+				criterion: ""
+			}]
+			rewards: [{
+				id: "01A644EF482DC428"
+				type: "ftbmoney:money"
+				ftb_money: 1L
+			}]
+		}
+		{
+			title: "End Ores"
+			x: -3.5d
+			y: -8.5d
+			id: "43B434CA5FEF3672"
+			tasks: [
+				{
+					id: "49BDD6236705C225"
+					type: "item"
+					item: "betterendforge:ender_ore"
+				}
+				{
+					id: "2E3D86755D139E92"
+					type: "item"
+					item: "betterendforge:amber_ore"
+				}
+				{
+					id: "45A28250DBFC663C"
+					type: "item"
+					item: "natureminerals:astrite_ore"
+				}
+				{
+					id: "1F3B59EE3B084FCB"
+					type: "item"
+					item: "quark:biotite_ore"
+				}
+				{
+					id: "428C5C51AEAC5C97"
+					type: "item"
+					item: "betterendforge:thallasium_ore"
+				}
+			]
+			rewards: [{
+				id: "6FC359A8556AD309"
+				type: "ftbmoney:money"
+				ftb_money: 1L
+			}]
+		}
+		{
+			title: "Nether Ores"
+			x: -2.5d
+			y: -8.5d
+			id: "5B0272334DA88658"
+			tasks: [
+				{
+					id: "7A004F9494E58913"
+					type: "item"
+					item: "natureminerals:stibnite_ore"
+				}
+				{
+					id: "7E050B7344824BAD"
+					type: "item"
+					item: "minecraft:ancient_debris"
+				}
+				{
+					id: "1F2456D22715BF93"
+					type: "item"
+					item: "tconstruct:cobalt_ore"
+				}
+			]
+			rewards: [{
+				id: "7BFC65CDD1270AA3"
+				type: "ftbmoney:money"
+				ftb_money: 1L
+			}]
+		}
+		{
+			title: "Overworld Ores Tier 1"
+			x: -1.5d
+			y: -8.5d
+			dependencies: ["4DB152A2918F0A3F"]
+			id: "312AF98A76AC4D64"
+			tasks: [
+				{
+					id: "34A45C9EF861ED01"
+					type: "item"
+					item: "minecraft:iron_ore"
+				}
+				{
+					id: "0D8E25DB6D285BC6"
+					type: "item"
+					item: "minecraft:gold_ore"
+				}
+				{
+					id: "7C863BF03C78B3F6"
+					type: "item"
+					item: "natureminerals:uvarovite_ore"
+				}
+				{
+					id: "089F82460ABFF441"
+					type: "item"
+					item: "natureminerals:kunzite_ore"
+				}
+				{
+					id: "5AE8FF06824D6D4B"
+					type: "item"
+					item: "zombie_extreme:blackmetal"
+				}
+				{
+					id: "0617AB7186A3B3C5"
+					type: "item"
+					item: "zombie_extreme:titanore"
+				}
+				{
+					id: "3D9B0E02455A500B"
+					type: "item"
+					item: "zombie_extreme:oreradium"
+				}
+				{
+					id: "1DC03EAC2A5DBFF6"
+					type: "item"
+					item: "zombie_extreme:copper_ore"
+				}
+				{
+					id: "38AD5B8F7C628177"
+					type: "item"
+					item: "astralsorcery:starmetal_ore"
+				}
+				{
+					id: "32A059119CB99FEC"
+					type: "item"
+					item: "immersiveengineering:ore_copper"
+				}
+				{
+					id: "4AA53D077A9013BC"
+					type: "item"
+					item: "create:copper_ore"
+				}
+				{
+					id: "7E02C821526D4CBD"
+					type: "item"
+					item: "create:zinc_ore"
+				}
+				{
+					id: "00A8D508E5DBD86E"
+					type: "item"
+					item: "tconstruct:copper_ore"
+				}
+			]
+			rewards: [{
+				id: "2F942D48C9FFAFB4"
+				type: "ftbmoney:money"
+				ftb_money: 1L
+			}]
+		}
+		{
+			title: "Overworld Ores Tier 2"
+			x: -1.5d
+			y: -7.5d
+			dependencies: ["312AF98A76AC4D64"]
+			id: "11127933D7E135EA"
+			tasks: [
+				{
+					id: "333A88DAE90EA6E5"
+					type: "item"
+					item: "immersiveengineering:ore_aluminum"
+				}
+				{
+					id: "58CEE3CED1A5C86C"
+					type: "item"
+					item: "immersiveengineering:ore_lead"
+				}
+				{
+					id: "480328F6CB76FF18"
+					type: "item"
+					item: "immersiveengineering:ore_silver"
+				}
+				{
+					id: "38C5BC01D5E64A1E"
+					type: "item"
+					item: "immersiveengineering:ore_nickel"
+				}
+				{
+					id: "6020B7ACD99123F8"
+					type: "item"
+					item: "immersiveengineering:ore_uranium"
+				}
+			]
+			rewards: [{
+				id: "060283A1545A951F"
+				type: "ftbmoney:money"
+				ftb_money: 1L
+			}]
+		}
+		{
+			title: "Overworld Basic Ores"
+			x: -1.5d
+			y: -9.5d
+			dependency_requirement: "all_started"
+			id: "4DB152A2918F0A3F"
+			tasks: [
+				{
+					id: "52DC0F0E7BD0A263"
+					type: "item"
+					item: "minecraft:lapis_lazuli"
+				}
+				{
+					id: "61CC045488691D04"
+					type: "item"
+					item: "minecraft:diamond"
+				}
+				{
+					id: "6E253F56FFF6C464"
+					type: "item"
+					item: "minecraft:redstone"
+				}
+				{
+					id: "43CDFA3455AA38F2"
+					type: "item"
+					item: "minecraft:emerald"
+				}
+				{
+					id: "6B4C739272068C36"
+					type: "item"
+					item: "zombie_extreme:ruby"
+				}
+			]
+		}
+		{
+			icon: "minecraft:nether_star"
+			x: -3.0d
+			y: -5.0d
+			id: "282BF76E60F15B81"
+			tasks: [{
+				id: "435A167EAC06FDCB"
+				type: "kill"
+				entity: "minecraft:wither"
+				value: 1L
+			}]
+			rewards: [{
+				id: "4309F31789A32BD5"
+				type: "ftbmoney:money"
+				ftb_money: 2L
+			}]
+		}
+		{
+			icon: "minecraft:dragon_head"
+			x: -4.0d
+			y: -5.0d
+			id: "2FA253EC246982A6"
+			tasks: [{
+				id: "1666A0BD59484756"
+				type: "kill"
+				entity: "minecraft:ender_dragon"
+				value: 1L
+			}]
+			rewards: [{
+				id: "6A68CD1ECA483BBB"
+				type: "ftbmoney:money"
+				ftb_money: 1L
+			}]
+		}
+		{
+			x: 5.0d
+			y: -8.5d
+			id: "24D4203410E027C7"
+			tasks: [
+				{
+					id: "1ACBE67177855010"
+					type: "advancement"
+					advancement: "tconstruct:world/earth_island"
+					criterion: ""
+				}
+				{
+					id: "3E1D0DF5EB56907C"
+					type: "advancement"
+					advancement: "tconstruct:world/ender_island"
+					criterion: ""
+				}
+				{
+					id: "425FE7D9E31D9C8D"
+					type: "advancement"
+					advancement: "tconstruct:world/sky_island"
+					criterion: ""
+				}
+			]
+			rewards: [{
+				id: "3C5B6EBE257E887A"
+				type: "ftbmoney:money"
+				ftb_money: 1L
+			}]
+		}
+		{
+			x: 1.0d
+			y: -8.5d
+			id: "67C6E7C6DA4AB09A"
+			tasks: [
+				{
+					id: "3552003DF30F14AF"
+					type: "biome"
+					biome: "minecraft:desert"
+				}
+				{
+					id: "1E1BD8A37C362BE6"
+					type: "biome"
+					icon: "minecraft:acacia_sapling"
+					biome: "minecraft:savanna"
+				}
+				{
+					id: "6A1EC5CAB2108CF4"
+					type: "biome"
+					icon: "minecraft:kelp"
+					biome: "minecraft:ocean"
+				}
+			]
+			rewards: [{
+				id: "55E0FF0C4EB4EEEE"
+				type: "ftbmoney:money"
+				ftb_money: 1L
+			}]
+		}
 	]
 }

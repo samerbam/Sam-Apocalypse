@@ -42,7 +42,7 @@ hash = "a8a7d520acfc1fa423542bc3caf0a7dc1f5bade4e9762eed61c23fba61941f49"
 
 [[files]]
 file = "config/betterweather/betterweather-common.toml"
-hash = "647eda2f16e2e906f11c955a3f5550df7ca3f798e42640ede8b2efc530567fa0"
+hash = "ec497eabd6797272ee41ab8b9ad6823dac77e82b9f74e40b18ccb35e3d79d2e0"
 
 [[files]]
 file = "config/betterweather/betterweather-seasons.json"
@@ -226,7 +226,7 @@ hash = "43322179334f6a01218d24c1e1c88a1ecb4cc77ade45bcb650bf09609c1f7370"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/objectives.snbt"
-hash = "761ebcbd9a094f6ca0abe719ae7a63a3b55b16103449e9c41be2e71aee83abd8"
+hash = "2c8dd4df7d3fbe760a9e83a064ed6449e8209020dbbfbd39f99dfd66dc1f2e79"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/unlockables.snbt"

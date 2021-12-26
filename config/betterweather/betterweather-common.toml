@@ -67,7 +67,7 @@
 			#I.E: Biome Temperature >= 0.15(Snow decays in biome temps warmer than 0.15).
 			#Default: 0.15
 			#Range: -2.0 ~ 2.0
-			SnowDecayTemperatureThreshold = 0.15
+			SnowDecayTemperatureThreshold = 0
 			#How often is snow and ice decayed after blizzards?
 			#Default: 50
 			#Range: 1 ~ 100000
