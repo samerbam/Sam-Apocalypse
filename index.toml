@@ -983,6 +983,11 @@ hash = "4e79c0390b9aa057607a10cfa397bd13c023c4bb4c0373f9e26e146e80b83efa"
 metafile = true
 
 [[files]]
+file = "mods/tinkers-rapier.toml"
+hash = "b24dbb558f7afbd40e1ab7e0f53b14a28a870ce46ca9b75abf9eec5bce47fa9a"
+metafile = true
+
+[[files]]
 file = "mods/toast-control.toml"
 hash = "5899d4c9d2f87ab7ef5baa1272d8b6852dcf5d495afdab4321956ee5057c1aed"
 metafile = true

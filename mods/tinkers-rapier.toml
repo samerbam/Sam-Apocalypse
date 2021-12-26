@@ -1,0 +1,13 @@
+name = "Tinkers' Rapier"
+filename = "tinker_rapier-1.1.4-1.16.5.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3550/345/tinker_rapier-1.1.4-1.16.5.jar"
+hash-format = "murmur2"
+hash = "131407913"
+
+[update]
+[update.curseforge]
+file-id = 3550345
+project-id = 518284
