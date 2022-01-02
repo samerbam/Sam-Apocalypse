@@ -417,6 +417,10 @@ file = "config/survive.common.toml"
 hash = "560a1ba81fc66a318b7712a824bd6c196cc5ea9417ffd3c99ddf0bfcb22f7aa7"
 
 [[files]]
+file = "config/tinker_rapier-common.toml"
+hash = "45a23963200a614e7ff365b64800164edfe58797ef0c820f3dfed82dc1bf11ba"
+
+[[files]]
 file = "config/toastcontrol-common.toml"
 hash = "4dd1cc1b9f2e65e9e70de919f20915540a8f8558a57d7642140149bf89fb57f9"
 
