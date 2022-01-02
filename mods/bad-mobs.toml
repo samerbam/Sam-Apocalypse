@@ -1,13 +1,13 @@
 name = "Bad Mobs"
-filename = "BadMobs-1.16.5-9.0.4.jar"
+filename = "BadMobs-1.16.5-9.0.5.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3348/561/BadMobs-1.16.5-9.0.4.jar"
+url = "https://edge.forgecdn.net/files/3591/403/BadMobs-1.16.5-9.0.5.jar"
 hash-format = "murmur2"
-hash = "2303694"
+hash = "1170207388"
 
 [update]
 [update.curseforge]
-file-id = 3348561
+file-id = 3591403
 project-id = 233258

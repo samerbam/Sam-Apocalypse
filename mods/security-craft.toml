@@ -1,13 +1,13 @@
 name = "Security Craft"
-filename = "SecurityCraft v1.8.23.jar"
+filename = "[1.16.5] SecurityCraft v1.9.0.2.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3398/327/%5B1.16.5%5D SecurityCraft v1.8.23.jar"
+url = "https://edge.forgecdn.net/files/3577/166/[1.16.5] SecurityCraft v1.9.0.2.jar"
 hash-format = "murmur2"
-hash = "4286357527"
+hash = "409390877"
 
 [update]
 [update.curseforge]
-file-id = 3398327
+file-id = 3577166
 project-id = 64760
