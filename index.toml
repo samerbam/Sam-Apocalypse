@@ -938,6 +938,11 @@ hash = "aa809217a57f673c3a0ca54d9d168085e1d775fad9d2f765854de0e094f6723f"
 metafile = true
 
 [[files]]
+file = "mods/sophisticated-backpacks.toml"
+hash = "4c7df1e0ce14b0d0acfa5e0f387d8b9ecb9287039283a39fb9489d3178d690ed"
+metafile = true
+
+[[files]]
 file = "mods/starter-kit.toml"
 hash = "f696d31135f24a2241c2eb55eae7b869878fcae2122bb241f7762aefa6a8966b"
 metafile = true
