@@ -389,6 +389,10 @@ file = "config/sidebar_buttons.json"
 hash = "d12bcdd59a36b21e0aafaab84c9ef6749d8aeab3e28e814571625a58a5db3a87"
 
 [[files]]
+file = "config/sophisticatedbackpacks-common.toml"
+hash = "3ebc89c1a59b4b3e98719ea2fb79773f132ff2c1e47128a08a4ecdbe9935019c"
+
+[[files]]
 file = "config/starterkit/starterkit.txt"
 hash = "30d4111d31402db1ea10b355a3217cf6722b9408248d72c0e3fc2e454d8d22fe"
 
