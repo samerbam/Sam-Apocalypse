@@ -1,13 +1,13 @@
 name = "Survive"
-filename = "Survive-1.16.5-3.4.4.jar"
+filename = "Survive-1.16.5-3.4.6.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3416/821/Survive-1.16.5-3.4.4.jar"
+url = "https://edge.forgecdn.net/files/3548/53/Survive-1.16.5-3.4.6.jar"
 hash-format = "murmur2"
-hash = "225047224"
+hash = "1683697190"
 
 [update]
 [update.curseforge]
-file-id = 3416821
+file-id = 3548053
 project-id = 367337

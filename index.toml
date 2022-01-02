@@ -967,7 +967,7 @@ metafile = true
 
 [[files]]
 file = "mods/survive.toml"
-hash = "a30b2a69a26fbeed51a5209e25f6e56227b889f63aac3b90e9da79c8ba0f36d3"
+hash = "b2b48e8392a2605f564dc84799190bc9c7fa1bb568312bcad4f460e778e5062e"
 metafile = true
 
 [[files]]
