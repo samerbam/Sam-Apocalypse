@@ -922,7 +922,7 @@ metafile = true
 
 [[files]]
 file = "mods/security-craft.toml"
-hash = "d0b00d9b94afeb6cf136f8f21322a40722c474d62e7be642407c19dc19c6cd4d"
+hash = "a06b2c32ea63678c8b8976ba440c30cf42ccd897a1d93bc0f5552dc03e31f2d1"
 metafile = true
 
 [[files]]
