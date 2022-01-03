@@ -422,7 +422,7 @@ hash = "560a1ba81fc66a318b7712a824bd6c196cc5ea9417ffd3c99ddf0bfcb22f7aa7"
 
 [[files]]
 file = "config/tinker_rapier-common.toml"
-hash = "45a23963200a614e7ff365b64800164edfe58797ef0c820f3dfed82dc1bf11ba"
+hash = "0b3caa29d0a9ff3dfcd9083317c089a40bad8e07f33f96fb0b5000b080f86e26"
 
 [[files]]
 file = "config/toastcontrol-common.toml"
