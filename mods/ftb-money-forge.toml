@@ -1,13 +1,13 @@
 name = "FTB Money (Forge)"
-filename = "ftb-money-1605.1.3-build.6.jar"
+filename = "ftb-money-1605.1.3-build.3.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3543/11/ftb-money-1605.1.3-build.6.jar"
+url = "https://edge.forgecdn.net/files/3492/725/ftb-money-1605.1.3-build.3.jar"
 hash-format = "murmur2"
-hash = "3908621614"
+hash = "2261073454"
 
 [update]
 [update.curseforge]
-file-id = 3543011
+file-id = 3492725
 project-id = 306283

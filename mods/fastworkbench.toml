@@ -1,13 +1,13 @@
 name = "FastWorkbench"
-filename = "FastWorkbench-1.16.5-4.6.1.jar"
+filename = "FastWorkbench-1.16.5-4.6.0.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3566/919/FastWorkbench-1.16.5-4.6.1.jar"
+url = "https://edge.forgecdn.net/files/3531/308/FastWorkbench-1.16.5-4.6.0.jar"
 hash-format = "murmur2"
-hash = "1972748246"
+hash = "670920427"
 
 [update]
 [update.curseforge]
-file-id = 3566919
+file-id = 3531308
 project-id = 288885
