@@ -1,12 +1,12 @@
 name = "Sam Apocalypse"
 author = "Sam"
-version = "1.8.0"
+version = "1.8.1"
 pack-format = "packwiz:1.0.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "825885a9139f0464546d4ebc39ce465695e41eaae42b4176e748107cb8e7efe9"
+hash = "c10fc88b4f51bb40971efe1d3a04e2e857a38e054edbe793d9be4a687412bda5"
 
 [versions]
 forge = "36.2.20"

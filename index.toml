@@ -693,13 +693,18 @@ hash = "8ebe0fd4208696be3ae9d1d67c506e4b38da0679b38d1321796f2fc9d4f5f1a4"
 metafile = true
 
 [[files]]
-file = "mods/fastfurnace.toml"
-hash = "0aa9be4a11efa334c4485a3c2462262f83cd8c0dd3c9a9284d90ef87373bab05"
+file = "mods/fastfurnace-minus-replacement.toml"
+hash = "ebcde053839b60be53e6c8068ed1c0a9fa2be91ae8c5cda3263e988a4c31f6b1"
 metafile = true
 
 [[files]]
-file = "mods/fastworkbench.toml"
-hash = "20ddb1d94014f1d5024effdcac70f491c5bb31d3828e009b4487d95a6749a46a"
+file = "mods/fastsuite.toml"
+hash = "35621f8d7144d6f09eec2be534c9fff2b238f9703d9428dc5076446e8f539ae3"
+metafile = true
+
+[[files]]
+file = "mods/fastworkbench-minus-replacement.toml"
+hash = "85316e47f24bd7edcb099170cb84a8d5de206115362132a5d96b5a9b0a4d728e"
 metafile = true
 
 [[files]]
@@ -795,6 +800,11 @@ metafile = true
 [[files]]
 file = "mods/just-enough-resources-jer.toml"
 hash = "b1ad499364683d41dfcc4d7e63f75bf1939f8d8fd3d663af26f9103d9245571e"
+metafile = true
+
+[[files]]
+file = "mods/lazy-dfu-forge.toml"
+hash = "96aa94af84d9d63fb8d9b27317f95a00721bc3144d2461faa7a456b4e16ad188"
 metafile = true
 
 [[files]]
