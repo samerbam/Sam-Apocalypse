@@ -568,7 +568,7 @@
 		#Should the entity be allowed to spawn normally?
 		allowNormalSpawning = false
 		#Should spawners be able to spawn the entity?
-		allowSpawners = false
+		allowSpawners = true
 		#Should spawn eggs be able to spawn the entity?
 		allowSpawnEggs = true
 		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
@@ -612,7 +612,7 @@
 		#Should the entity be allowed to spawn normally?
 		allowNormalSpawning = false
 		#Should spawners be able to spawn the entity?
-		allowSpawners = false
+		allowSpawners = true
 		#Should spawn eggs be able to spawn the entity?
 		allowSpawnEggs = true
 		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
@@ -700,7 +700,7 @@
 		#Should the entity be allowed to spawn normally?
 		allowNormalSpawning = false
 		#Should spawners be able to spawn the entity?
-		allowSpawners = false
+		allowSpawners = true
 		#Should spawn eggs be able to spawn the entity?
 		allowSpawnEggs = true
 		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.

@@ -30,7 +30,7 @@ hash = "a86387d55f8980bebb3a79df45d46d3e8b8661c9dc48a0fa1019f79c85b3e70b"
 
 [[files]]
 file = "config/badmobs-common.toml"
-hash = "3acb734c1e22bd16178a315b4ce2b2e48a1e9e741babcbb837c7fe119a9a07cd"
+hash = "bb51d51538b6f4b0026e628977b447b4add23b64ad8d000243646db95b485465"
 
 [[files]]
 file = "config/betteradvancements-client.toml"
