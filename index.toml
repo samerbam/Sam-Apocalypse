@@ -493,14 +493,6 @@ file = "icon.png"
 hash = "7ab482e07c8d3bee4288e883ed6b98db7666933ef54de25d1cb078711c3ce8d0"
 
 [[files]]
-file = "manifest.json"
-hash = "fac2eb65a45435ddd3a9846be89c651a91b15a870d5f837b098f89da8e2e6fff"
-
-[[files]]
-file = "minecraftinstance.json"
-hash = "015f9872eb2d4f40e959da12cb3be81b5446ff9f227c7e76edd89b254b252a11"
-
-[[files]]
 file = "mods/akashic-tome.toml"
 hash = "225df8940055e0e30543fb6eca469a6d0f4e9c12f10dc6eebdc1bd709b789504"
 metafile = true
@@ -587,7 +579,7 @@ metafile = true
 
 [[files]]
 file = "mods/codechicken-lib-1-8.toml"
-hash = "05c00b027b0d3795eecec9f7da4acbba433299def501d0fe7145f94eafbd1ec8"
+hash = "7c780b75006e821d33d9873839962a1848fe38e94ee7a4908c1bc9ee5edc5b15"
 metafile = true
 
 [[files]]
