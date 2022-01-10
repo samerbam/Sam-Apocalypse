@@ -83,7 +83,7 @@
 			BlizzardsInDeserts = false
 			#Do blizzards generate snow and ice?
 			#Default: true
-			SpawnSnowAndIce = true
+			SpawnSnowAndIce = false
 			#Do blizzards destroy plants?
 			#Default: false
 			BlizzardsDestroyPlants = false

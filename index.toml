@@ -42,7 +42,7 @@ hash = "a8a7d520acfc1fa423542bc3caf0a7dc1f5bade4e9762eed61c23fba61941f49"
 
 [[files]]
 file = "config/betterweather/betterweather-common.toml"
-hash = "ec497eabd6797272ee41ab8b9ad6823dac77e82b9f74e40b18ccb35e3d79d2e0"
+hash = "882218bf7080374f0cdbf59cd807d494281bf6cb6bbb6cbc9c160ca4ea9ef4af"
 
 [[files]]
 file = "config/betterweather/betterweather-seasons.json"
@@ -406,7 +406,7 @@ hash = "3222421979d704e0e4a195fb95b7553b9387f89ccfe573ee4becc2129264ce77"
 
 [[files]]
 file = "config/storagedrawers-common.toml"
-hash = "8d0e89edb7cb35ad835c34e56067cfc8d947ac683c72d1541c40704cd2334415"
+hash = "ab25bbc4416b709419afde254593ea8a34018c5b12190b559162ac17e2cbdb41"
 
 [[files]]
 file = "config/survive-server.toml"

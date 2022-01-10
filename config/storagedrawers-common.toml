@@ -13,7 +13,7 @@
 	baseStackStorage = 4
 	enableExtraCompactingRules = true
 	#Range: 1 ~ 50
-	controllerRange = 12
+	controllerRange = 50
 	enableSidedOutput = true
 
 [StorageUpgrades]
