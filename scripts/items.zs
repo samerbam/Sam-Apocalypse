@@ -7,3 +7,4 @@ import mods.contenttweaker.item.tool.ItemBuilderTool;
 new ItemBuilder().build("gold_casing");
 new ItemBuilder().build("iron_casing");
 new ItemBuilder().build("brass_casing");
+new ItemBuilder().build("spawner_shard");
