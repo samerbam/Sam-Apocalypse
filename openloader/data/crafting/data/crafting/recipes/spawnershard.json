@@ -1,0 +1,36 @@
+{
+  "type": "create:mechanical_crafting",
+  "pattern": [
+    "ABC",
+    "DED",
+    "FBG"
+  ],
+  "key": {
+    "A": {
+      "tag": "forge:ingots/iron"
+    },
+    "B": {
+      "tag": "forge:slimeballs"
+    },
+    "C": {
+      "tag": "forge:gems/diamond"
+    },
+    "D": {
+      "item": "contenttweaker:spawner_shard"
+    },
+    "E": {
+      "item": "minecraft:lead"
+    },
+    "F": {
+      "tag": "forge:ingots/gold"
+    },
+    "G": {
+      "tag": "forge:dusts/redstone"
+    }
+  },
+  "result": {
+    "item": "tinymobfarm:lasso",
+    "count": 1
+  },
+  "acceptMirrored": false
+}

@@ -10,6 +10,10 @@ craftingTable.removeByModid("immersiveengineering", (name as string) => {
     return name != "crushing/blaze_rod";
 });
 
+craftingTable.removeByModid("tinymobfarm", (name as string) => {
+    return name != "tinymobfarm:lasso";
+});
+
 loot.modifiers.registerUnconditional("add_spawner_shards", (drops, ctx) => {
     // println("this is a string test");
     // println((drops as string));

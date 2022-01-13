@@ -1353,6 +1353,10 @@ file = "openloader/data/crafting/data/crafting/recipes/shulkershell.json"
 hash = "3508b0fe1a308017f9c5a90c54e85cd220eb86d25f2d53133774cefdfabba6a4"
 
 [[files]]
+file = "openloader/data/crafting/data/crafting/recipes/spawnershard.json"
+hash = "44f9a0a6542cacadeb0d9e2506e1ba95dd401335b307665ec86cecac70d68133"
+
+[[files]]
 file = "openloader/data/crafting/data/crafting/recipes/sporter22_magazine.json"
 hash = "8bf128bfdac727d44801f5c30b43624f53172caac4c26bd9150dc1d3b14d4d73"
 
@@ -1490,7 +1494,7 @@ hash = "d983d4932464ef867d315dc3018746507f3066878e4f1f76ce9044d03bfd9a60"
 
 [[files]]
 file = "scripts/recipes.zs"
-hash = "97aeba7ca3f25a23c75c7c01ce010e59ab4388164eda5faa44b5c2b34e1afefc"
+hash = "95dded2cadc9c223a854b4e2c84b5f7e7d45759578d920a67165dd809ea2a1c0"
 
 [[files]]
 file = "scripts/stages.zs"
