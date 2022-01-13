@@ -425,6 +425,10 @@ file = "config/tinker_rapier-common.toml"
 hash = "0b3caa29d0a9ff3dfcd9083317c089a40bad8e07f33f96fb0b5000b080f86e26"
 
 [[files]]
+file = "config/tinymobfarm.toml"
+hash = "cc32747c8d8dbd137382ff354ed1ee328efa1a2bcdb4297d47f8ba9f97c6e218"
+
+[[files]]
 file = "config/toastcontrol-common.toml"
 hash = "4dd1cc1b9f2e65e9e70de919f20915540a8f8558a57d7642140149bf89fb57f9"
 
@@ -988,6 +992,11 @@ hash = "b24dbb558f7afbd40e1ab7e0f53b14a28a870ce46ca9b75abf9eec5bce47fa9a"
 metafile = true
 
 [[files]]
+file = "mods/tiny-mob-farm.toml"
+hash = "0cb63c45b751db4e14772dd2a8d1d3865ae1573218b9069db72582c4e0b74571"
+metafile = true
+
+[[files]]
 file = "mods/toast-control.toml"
 hash = "5899d4c9d2f87ab7ef5baa1272d8b6852dcf5d495afdab4321956ee5057c1aed"
 metafile = true
@@ -1437,7 +1446,7 @@ hash = "5d4aee7fbd7764fd520fc725da9cab56cb5e72adbb56438221334daf79fb0325"
 
 [[files]]
 file = "openloader/resources/contenttweaker/assets/contenttweaker/lang/en_us.json"
-hash = "bef75526b2ca82b469a721262e64ce11c11bb2bbf39f42292b6e1538dced079f"
+hash = "e2034c57091dad45ca8b8070be877e853188dcf7082ee14e919e59b5227dd8f8"
 
 [[files]]
 file = "openloader/resources/contenttweaker/assets/contenttweaker/models/item/brass_casing.json"
@@ -1464,6 +1473,10 @@ file = "openloader/resources/contenttweaker/assets/contenttweaker/textures/item/
 hash = "219a051be5f1613a00dcec13f3a0cf60b3b7a8d77f709ab4cf551856bbf192ca"
 
 [[files]]
+file = "openloader/resources/contenttweaker/assets/contenttweaker/textures/item/spawner_shard.png"
+hash = "6b9896d91ea7966080610e6f567e5a6d34788416dfe37d24fc3733bf207c7f4b"
+
+[[files]]
 file = "openloader/resources/contenttweaker/pack.mcmeta"
 hash = "160919c4da31f9b5f80a23b809b863b9c7b444f6c1cfd05941569a5ffe96a48c"
 
@@ -1477,7 +1490,7 @@ hash = "d983d4932464ef867d315dc3018746507f3066878e4f1f76ce9044d03bfd9a60"
 
 [[files]]
 file = "scripts/recipes.zs"
-hash = "f2c1d17d5e104541ee1caf633a02a8b620e4e95e320110568bcc08700e1ad3dc"
+hash = "97aeba7ca3f25a23c75c7c01ce010e59ab4388164eda5faa44b5c2b34e1afefc"
 
 [[files]]
 file = "scripts/stages.zs"

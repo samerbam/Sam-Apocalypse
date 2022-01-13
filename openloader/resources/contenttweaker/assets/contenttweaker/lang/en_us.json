@@ -1,5 +1,7 @@
 {
   "item.contenttweaker.gold_casing": "Gold Casing",
   "item.contenttweaker.brass_casing": "Brass Casing",
-  "item.contenttweaker.iron_casing": "Iron Casing"
+  "item.contenttweaker.iron_casing": "Iron Casing",
+  "item.contenttweaker.incomplete_difficulty_reducer": "Incomplete Difficulty Reducer",
+  "item.contenttweaker.spawner_shard": "Spawner Shard"
 }

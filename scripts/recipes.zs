@@ -9,6 +9,17 @@ craftingTable.removeByModid("immersiveengineering", (name as string) => {
 <recipetype:create:crushing>.removeByModid("create", (name as string) => {
     return name != "crushing/blaze_rod";
 });
+
+loot.modifiers.registerUnconditional("add_spawner_shards", (drops, ctx) => {
+    // println("this is a string test");
+    // println((drops as string));
+    // println((ctx.lootTableId as string));
+
+    if ((ctx.lootTableId as string) == "minecraft:blocks/spawner") {
+        drops.add(<item:contenttweaker:spawner_shard>);
+    }
+    return drops;
+});
 #craftingTable.removeRecipe(<item:immersiveengineering:empty_casing>);
 #craftingTable.removeByModid("ironchest");
 #craftingTable.removeByModid("immersiveengineering");

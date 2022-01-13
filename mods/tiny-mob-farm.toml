@@ -1,0 +1,13 @@
+name = "Tiny Mob Farm"
+filename = "TinyMobFarm-1.16.4-1.1.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3152/283/TinyMobFarm-1.16.4-1.1.1.jar"
+hash-format = "murmur2"
+hash = "1977396188"
+
+[update]
+[update.curseforge]
+file-id = 3152283
+project-id = 311880
