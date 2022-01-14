@@ -1494,7 +1494,7 @@ hash = "223542a2296516c86bb42f8e62442cfcb57193787298cb06a752197566c3b71b"
 
 [[files]]
 file = "scripts/recipes.zs"
-hash = "7788fdd0c87ac85a9aba48abdd2cf1c10f1f2b2ff880fa790656db35bc435579"
+hash = "b6c9d067ea7e0c89a9a3fe8e2b6fc8d7d4481fc33c9293149ca56811ca1a72fc"
 
 [[files]]
 file = "scripts/stages.zs"

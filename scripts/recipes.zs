@@ -11,6 +11,9 @@ craftingTable.removeByModid("tinymobfarm", (name as string) => {
 furnace.removeByModid("survive", (name as string) => {
     return name != "wood_ash";
 });
+furnace.removeByModid("desolation", (name as string) => {
+    return name != "act_charcoal_rcp";
+});
 
 <recipetype:create:milling>.removeByModid("create", (name as string) => {
     return name != "milling/sandstone";
