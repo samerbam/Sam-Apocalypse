@@ -3,15 +3,20 @@ craftingTable.removeByModid("enderstorage");
 craftingTable.removeByModid("immersiveengineering", (name as string) => {
     return name != "crafting/empty_casing";
 });
+craftingTable.removeByModid("tinymobfarm", (name as string) => {
+    return name != "lasso";
+});
+
+
+furnace.removeByModid("survive", (name as string) => {
+    return name != "wood_ash";
+});
+
 <recipetype:create:milling>.removeByModid("create", (name as string) => {
     return name != "milling/sandstone";
 });
 <recipetype:create:crushing>.removeByModid("create", (name as string) => {
     return name != "crushing/blaze_rod";
-});
-
-craftingTable.removeByModid("tinymobfarm", (name as string) => {
-    return name != "tinymobfarm:lasso";
 });
 
 loot.modifiers.registerUnconditional("add_spawner_shards", (drops, ctx) => {
