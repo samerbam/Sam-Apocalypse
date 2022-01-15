@@ -6,7 +6,9 @@ craftingTable.removeByModid("immersiveengineering", (name as string) => {
 craftingTable.removeByModid("tinymobfarm", (name as string) => {
     return name != "lasso";
 });
-
+craftingTable.removeByModid("createchunkloading", (name as string) => {
+    return name != "crafting/chunk_loader";
+});
 
 furnace.removeByModid("survive", (name as string) => {
     return name != "wood_ash";

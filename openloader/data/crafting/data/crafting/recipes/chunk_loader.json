@@ -1,0 +1,27 @@
+{
+  "type": "create:mechanical_crafting",
+  "pattern": [
+    "ACA",
+    "BDB",
+    "ACA"
+  ],
+  "key": {
+    "A": {
+      "item": "create:precision_mechanism"
+    },
+    "B": {
+      "tag": "forge:gems/emerald"
+    },
+    "C": {
+      "tag": "forge:gems/diamond"
+    },
+    "D": {
+      "item": "contenttweaker:spawner_shard"
+    }
+  },
+  "result": {
+    "item": "createchunkloading:chunk_loader",
+    "count": 1
+  },
+  "acceptMirrored": true
+}
