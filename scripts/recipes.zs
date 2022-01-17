@@ -1,3 +1,4 @@
+# Changes Crafting recipes
 
 craftingTable.removeByModid("enderstorage");
 craftingTable.removeByModid("immersiveengineering", (name as string) => {
