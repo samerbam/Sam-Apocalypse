@@ -1109,6 +1109,10 @@ file = "openloader/data/crafting/data/crafting/recipes/casing.json"
 hash = "88f6d5d088fe7282b2d130b632cbf03f22a206fd9ad77241acb3e9ebfb83658f"
 
 [[files]]
+file = "openloader/data/crafting/data/crafting/recipes/chunk_loader.json"
+hash = "99919bd750263dcacce376ca351f8ce7ecc19e12e3b5c1979cc468c7bf50fbd0"
+
+[[files]]
 file = "openloader/data/crafting/data/crafting/recipes/desert_eagle_magazine.json"
 hash = "ff4201a5e8ec7925fc1a22e658bf976f0ed27d93364b2bee72de5ff177c8a29b"
 
@@ -1494,7 +1498,7 @@ hash = "223542a2296516c86bb42f8e62442cfcb57193787298cb06a752197566c3b71b"
 
 [[files]]
 file = "scripts/recipes.zs"
-hash = "b6c9d067ea7e0c89a9a3fe8e2b6fc8d7d4481fc33c9293149ca56811ca1a72fc"
+hash = "bcc25d706c447126a96c7ed24251f8124b9d66732ab08604ff78c47c29dac252"
 
 [[files]]
 file = "scripts/stages.zs"
