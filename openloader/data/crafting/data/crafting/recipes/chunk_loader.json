@@ -20,8 +20,8 @@
     }
   },
   "result": {
-    "item": "createchunkloading:chunk_loader",
-    "count": 1
+    "item": "chunknogobyebye:loader",
+    "count": 2
   },
   "acceptMirrored": true
 }
