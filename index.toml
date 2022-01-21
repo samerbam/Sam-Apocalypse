@@ -373,10 +373,6 @@ file = "config/pamhc2trees.toml"
 hash = "daeff4040429788c69511dacf76f67e54c5dec4b22e75d3a497668bc0db767fa"
 
 [[files]]
-file = "config/parachute.json"
-hash = "1ff53081ef0fc1d9929e0f980021336e2b9cb712c05161e897ad3a1b669a0a6a"
-
-[[files]]
 file = "config/quark-common.toml"
 hash = "eeec98d0920e2af3384fadcf009b93d6d4ccb49d4206162b9d86ae33cbedea11"
 
@@ -1331,6 +1327,10 @@ hash = "6eb68d5ab00046ea6e430f3a08639f31f4e43920a58e304fd5d3fece3e4787d9"
 [[files]]
 file = "openloader/data/crafting/data/crafting/recipes/p90_magazine_refill.json"
 hash = "6fbf656365ee200ae895c01b7a48930437f518cbe65e359283bce62b566dfe67"
+
+[[files]]
+file = "openloader/data/crafting/data/crafting/recipes/parachute.json"
+hash = "463a8c449da0780563633ac153e7a93dfcd0955b98b9c3031a19d263297c807c"
 
 [[files]]
 file = "openloader/data/crafting/data/crafting/recipes/recipeCreator.py"

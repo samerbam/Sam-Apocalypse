@@ -1,5 +1,5 @@
 {
-  "type": "create:mechanical_crafting",
+  "type": "minecraft:crafting_shaped",
   "pattern": [
     "AAA",
     "B B",
@@ -19,6 +19,5 @@
   "result": {
     "item": "craftingdead:parachute",
     "count": 1
-  },
-  "acceptMirrored": false
+  }
 }
