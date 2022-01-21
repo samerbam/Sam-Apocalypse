@@ -1113,7 +1113,7 @@ file = "openloader/data/crafting/data/crafting/recipes/casing.json"
 hash = "88f6d5d088fe7282b2d130b632cbf03f22a206fd9ad77241acb3e9ebfb83658f"
 
 [[files]]
-file = "openloader/data/crafting/data/crafting/recipes/chunk_loader.json"
+file = "openloader/data/crafting/data/crafting/recipes/chunknobyebye_loader.json"
 hash = "5a80bdc59b1b5a1fef86200bf88d745e382d7147fab0a54f03677664cfe79dac"
 
 [[files]]
