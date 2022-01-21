@@ -1,0 +1,24 @@
+{
+  "type": "create:mechanical_crafting",
+  "pattern": [
+    "AAA",
+    "B B",
+    " C "
+  ],
+  "key": {
+    "A": {
+      "tag": "forge:wool"
+    },
+    "B": {
+      "tag": "forge:string"
+    },
+    "C": {
+      "tag": "forge:rods/wooden"
+    }
+  },
+  "result": {
+    "item": "craftingdead:parachute",
+    "count": 1
+  },
+  "acceptMirrored": false
+}

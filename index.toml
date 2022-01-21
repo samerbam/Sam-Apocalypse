@@ -373,6 +373,10 @@ file = "config/pamhc2trees.toml"
 hash = "daeff4040429788c69511dacf76f67e54c5dec4b22e75d3a497668bc0db767fa"
 
 [[files]]
+file = "config/parachute.json"
+hash = "1ff53081ef0fc1d9929e0f980021336e2b9cb712c05161e897ad3a1b669a0a6a"
+
+[[files]]
 file = "config/quark-common.toml"
 hash = "eeec98d0920e2af3384fadcf009b93d6d4ccb49d4206162b9d86ae33cbedea11"
 
