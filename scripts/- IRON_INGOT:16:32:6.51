@@ -1,0 +1,18 @@
+- IRON_INGOT:16:32:6.51
+- GOLD_INGOT:8:32:4.34
+- DIAMOND:1:3:8.67
+- DIAMOND_BLOCK:1:1:5.78
+- EMERALD:1:5:8.33
+- EMERALD_BLOCK:1:1:4.63
+- VILLAGER_SPAWN_EGG:1:1:0.28
+- "*25000:25000:25000:0.08"
+- SADDLE:1:1:4.16
+- NAMETAG:1:1:4.16
+- "?minecraft:give %player% minecraft:bee_nest{BlockEntityTag:{Bees:[{EntityData:{id:'minecraft:bee'}},{EntityData:{id:'minecraft:bee'}},{EntityData:{id:'minecraft:bee'}}]}} 1:2.08"
+- "?brewery create Fine Beer 10 %player%:4.17"
+- "?brewery create Fine Beer 10 %player%:4.17"
+- SLIME_BALL:3:9:6.94
+- MAGMA_CREAM:2:4:4.63
+- PHANTOM_MEMBRANE:1:2:5.95
+- TURTLE_HELMET:1:1:10.41
+- RABBITS_FOOT:1:1:13.88
