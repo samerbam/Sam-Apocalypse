@@ -35,6 +35,12 @@ loot.modifiers.registerUnconditional("add_spawner_shards", (drops, ctx) => {
     }
     return drops;
 });
+
+
+craftingTable.addShaped("nightvision_goggles", <item:craftingdead:nv_goggles_hat>, [
+    [<item:minecraft:potion>.withTag({Potion: "minecraft:night_vision" as string}), <item:zombie_extreme:darkmetallplate>, <item:minecraft:potion>.withTag({Potion: "minecraft:night_vision" as string})], 
+    [<item:zombie_extreme:titanplate>, <item:create:goggles>, <item:zombie_extreme:titanplate>]]);
+
 #craftingTable.removeRecipe(<item:immersiveengineering:empty_casing>);
 #craftingTable.removeByModid("ironchest");
 #craftingTable.removeByModid("immersiveengineering");
