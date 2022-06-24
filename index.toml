@@ -422,7 +422,7 @@ hash = "560a1ba81fc66a318b7712a824bd6c196cc5ea9417ffd3c99ddf0bfcb22f7aa7"
 
 [[files]]
 file = "config/tinker_rapier-common.toml"
-hash = "0b3caa29d0a9ff3dfcd9083317c089a40bad8e07f33f96fb0b5000b080f86e26"
+hash = "45a23963200a614e7ff365b64800164edfe58797ef0c820f3dfed82dc1bf11ba"
 
 [[files]]
 file = "config/tinymobfarm.toml"
@@ -1506,7 +1506,7 @@ hash = "223542a2296516c86bb42f8e62442cfcb57193787298cb06a752197566c3b71b"
 
 [[files]]
 file = "scripts/recipes.zs"
-hash = "0fab7d4623a836bbf6549fa3253ba13dd7a32d049c4a7b4adab8ce3326080014"
+hash = "01873f208be062159a68f90d9873b1901c7641780632a0795e1386e2397496bb"
 
 [[files]]
 file = "scripts/stages.zs"
